@@ -1,13 +1,19 @@
 # data_analysis
 
 **Author**: Raven Delaney
-**Version**: 1.0.0 
+**Version**: 1.0.0
 
 ## Overview
 <!-- Provide a high level overview of what this application is and why you are building it, beyond the fact that it's an assignment for a Code Fellows 401 class. (i.e. What's your problem domain?) -->
+Introduction to Pandas/Numpy/Jupyter notebooks using bike-share stats and video game stats
+
+Intro to regressions using data set of choice(I'm using Rotten Tomatoes movie scores)
 
 ## Getting Started
 <!-- What are the steps that a user must take in order to build this app on their own machine and get it running? -->
+Using the command line, get into the pipenv shell
+Once in, you can open the notebook and review information in it.
+You can open the notebook without python3 or the command line, but you can't edit anything in it.
 
 ## Architecture
 <!-- Provide a detailed description of the application design. What technologies (languages, libraries, etc) you're using, and any other relevant design information. This is also an area which you can include any visuals; flow charts, example usage gifs, screen captures, etc.-->
