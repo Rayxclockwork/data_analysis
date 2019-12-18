@@ -25,3 +25,6 @@ You can open the notebook without python3 or the command line, but you can't edi
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an example:
 01-01-2001 4:59pm - Added functionality to add and delete some things.
 -->
+12/16/2019 3:30pm - Initiated notebooks
+12/16/2019 8:00pm - Commits for bike/video game stats notebooks
+12/17/2019 3:42pm - Initiated regressions notebook
