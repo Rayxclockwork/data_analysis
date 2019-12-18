@@ -1,0 +1,994 @@
+movie_title,rating,genre,directors,tomatometer_rating,audience_rating
+Meteor,PG,"Action & Adventure, Drama, Mystery & Suspense, Science Fiction & Fantasy",Ronald Neame,5,12
+Approaching the Unknown,PG,"Drama, Mystery & Suspense, Science Fiction & Fantasy",Mark Elijah Rosenberg,43,14
+Adventures of a Teenage Dragonslayer,PG,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy, Television",Andrew Lauer,60,16
+Deal of the Century,PG,Comedy,William Friedkin,11,17
+Caddyshack II,PG,Comedy,Allan Arkush,4,18
+Amityville: The Demon,PG,Horror,Richard Fleischer,5,19
+Dragonball Evolution,PG,"Action & Adventure, Science Fiction & Fantasy",James Wong,15,20
+The Adventures of Rocky & Bullwinkle,PG,"Comedy, Kids & Family, Science Fiction & Fantasy",Des McAnuff,44,20
+The Basket,PG,Drama,Rich Cowan,44,21
+Attack of the 50 Foot Woman,PG,"Classics, Science Fiction & Fantasy",Nathan Juran,75,21
+Doogal,G,"Animation, Kids & Family, Science Fiction & Fantasy","Frank Passingham, Dave Borthwick, Jean Duval, Jean-Philippe Duval",8,22
+Cops And Robbersons,PG,Comedy,Michael Ritchie,14,22
+Chatham (The Golden Boys),PG,"Comedy, Romance",Daniel Adams,28,22
+That Darn Cat,PG,"Action & Adventure, Art House & International, Comedy, Kids & Family",Bob Spiers,13,23
+Dudley Do-Right,PG,"Comedy, Kids & Family",Hugh Wilson,16,23
+City Heat,PG,"Action & Adventure, Comedy, Drama, Mystery & Suspense",Richard Benjamin,19,23
+388 Arletta Avenue,PG,"Art House & International, Drama, Mystery & Suspense",Randall Cole,56,23
+Baby Geniuses,PG,"Comedy, Drama, Kids & Family",Bob Clark,2,24
+The Devil and Max Devlin,PG,"Comedy, Kids & Family, Science Fiction & Fantasy",Steven Hilliard Stern,18,24
+Drunkboat,PG,Drama,Bob Meyer,23,24
+Daisy Miller,G,"Classics, Drama, Romance",Peter Bogdanovich,100,24
+Crocodile Dundee in Los Angeles,PG,"Action & Adventure, Comedy",Simon Wincer,11,25
+Bug,PG,"Classics, Horror, Mystery & Suspense, Science Fiction & Fantasy",Jeannot Szwarc,29,25
+Curse of the Pink Panther,PG,"Comedy, Mystery & Suspense",Blake Edwards,29,25
+Delgo,PG,"Animation, Science Fiction & Fantasy","Jason Maurer, Marc F. Adler",12,26
+Death Defying Acts,PG,"Drama, Mystery & Suspense, Romance",Gillian Armstrong,42,26
+Dr. Dolittle 2,PG,"Comedy, Kids & Family",Steve Carr,42,26
+Born Yesterday,PG,"Comedy, Romance",Luis Mandoki,25,27
+Animals United (Konferenz der Tiere),PG,"Animation, Art House & International, Kids & Family","Reinhard Klooss, Holger Tappe",25,27
+Cheerful Weather For The Wedding,PG,"Comedy, Drama",Donald Rice,37,27
+"Ned Kelly (Ned Kelly, Outlaw)",PG,"Action & Adventure, Western",Tony Richardson,43,27
+The Bad News Bears Go To Japan,PG,Comedy,John Berry,6,28
+Dear God,PG,Comedy,Garry Marshall,12,28
+Doug's 1st Movie,G,"Action & Adventure, Animation, Kids & Family, Special Interest",Maurice Joyce,26,28
+Best Friends,PG,"Comedy, Drama",Norman Jewison,62,28
+Lovesick,PG,"Comedy, Romance",Marshall Brickman,40,29
+Grizzly,PG,"Horror, Mystery & Suspense",William Girdler,44,29
+Deck the Halls,PG,Comedy,John Whitesell,6,30
+The Honeymooners,PG,"Comedy, Drama, Television",John Schultz,13,30
+Beethoven's 2nd,PG,"Action & Adventure, Comedy, Kids & Family",Rod Daniel,23,30
+Clockstoppers,PG,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Jonathan Frakes,29,30
+Big Top Pee-wee,PG,Comedy,Randal Kleiser,35,30
+Arthur 2: On the Rocks,PG,Comedy,Bud Yorkin,13,31
+Agent Cody Banks 2: Destination London,PG,"Action & Adventure, Comedy, Kids & Family, Mystery & Suspense",Kevin Allen,14,31
+Amelia,PG,Drama,"Stuart Dryburgh, Mira Nair",20,31
+Buddy,PG,"Comedy, Drama, Kids & Family",Caroline Thompson,25,31
+Alien Trespass,PG,"Comedy, Drama, Mystery & Suspense, Science Fiction & Fantasy",R.W. Goodwin,35,31
+Battle For The Planet Of The Apes,G,"Action & Adventure, Classics, Science Fiction & Fantasy",J. Lee Thompson,37,31
+Agent Cody Banks,PG,"Action & Adventure, Comedy, Kids & Family, Mystery & Suspense",Harald Zwart,39,31
+The Phantom,PG,"Action & Adventure, Science Fiction & Fantasy",Simon Wincer,42,31
+King Kong,PG,"Action & Adventure, Horror, Science Fiction & Fantasy",John Guillermin,53,31
+Furry Vengeance,PG,"Comedy, Kids & Family",Roger Kumble,7,32
+Cinderella II: Dreams Come True,G,"Animation, Kids & Family, Science Fiction & Fantasy",John Kafka,11,32
+And Then Came Love,PG,Comedy,Richard Schenkman,17,32
+Custer of the West,G,"Action & Adventure, Western","Robert Siodmak, Irving Lerner",25,32
+The Country Bears,G,"Comedy, Kids & Family",Peter Hastings,30,32
+102 Dalmatians,G,"Comedy, Kids & Family",Kevin Lima,31,32
+Airport '77,PG,"Action & Adventure, Drama, Mystery & Suspense",Jerry Jameson,33,32
+Bling,PG,"Animation, Kids & Family","Kyung Ho Lee, Wonjae Lee",33,32
+Cats & Dogs,PG,"Action & Adventure, Comedy, Kids & Family, Romance",Lawrence Guterman,53,32
+The Deadly Companions (Trigger Happy),PG,"Action & Adventure, Drama, Western",Sam Peckinpah,83,32
+Man of the House,PG,"Comedy, Kids & Family",James Orr,14,33
+Diary Of A Wimpy Kid: The Long Haul,PG,"Comedy, Kids & Family",David Bowers,18,33
+Space Chimps,G,"Action & Adventure, Animation, Comedy, Kids & Family",Kirk De Micco,33,33
+Invaders from Mars,PG,"Horror, Mystery & Suspense, Science Fiction & Fantasy",Tobe Hooper,36,33
+The Convent (O Convento),PG,"Art House & International, Documentary, Drama, Mystery & Suspense",Manoel de Oliveira,38,33
+The Killer Elite,PG,"Action & Adventure, Drama, Mystery & Suspense",Sam Peckinpah,46,33
+Flipper,PG,"Action & Adventure, Kids & Family",Alan Shapiro,32,34
+Around the World in 80 Days,PG,"Action & Adventure, Comedy, Kids & Family",Frank Coraci,32,34
+Clifford's Really Big Movie,G,"Animation, Kids & Family",Robert Ramirez,53,34
+The Bridge of San Luis Rey,PG,"Art House & International, Drama, Faith & Spirituality",Mary McGuckian,4,35
+Blank Check,PG,"Comedy, Kids & Family",Rupert Wainwright,9,35
+Confessions of a Teenage Drama Queen,PG,Comedy,Sara Sugarman,14,35
+Cop & 1/2,PG,"Comedy, Kids & Family",Henry Winkler,14,35
+Delhi Safari,PG,"Animation, Kids & Family",Nikhil Advani,14,35
+At the Earth's Core,PG,"Action & Adventure, Art House & International, Cult Movies, Science Fiction & Fantasy",Kevin Connor,25,35
+Casino Royale,G,"Action & Adventure, Classics, Comedy","Richard Talmadge, Kenneth Hughes, John Huston, Joseph McGrath, Robert Parrish, Val Guest, Ken Hughes",26,35
+Beethoven,PG,"Comedy, Kids & Family, Special Interest",Brian Levant,33,35
+Cocoon: The Return,PG,"Comedy, Drama, Science Fiction & Fantasy",Daniel Petrie Sr.,33,35
+Earthquake,PG,"Action & Adventure, Drama, Mystery & Suspense",Mark Robson,38,35
+Julius Caesar,G,"Action & Adventure, Art House & International, Classics, Drama",Stuart Burge,40,35
+Dragonheart - A New Beginning,PG,"Action & Adventure, Science Fiction & Fantasy",Doug Lefler,40,35
+Damnation Alley,PG,"Action & Adventure, Drama, Science Fiction & Fantasy",Jack Smight,44,35
+Infinity,PG,"Drama, Romance",Matthew Broderick,62,35
+Helen,PG,Drama,"Christine Molloy, Joe Lawlor (II)",65,35
+Fame,PG,"Drama, Musical & Performing Arts, Romance",Kevin Tancharoen,24,36
+Prophecy,PG,"Horror, Science Fiction & Fantasy",John Frankenheimer,29,36
+The Muppets' Wizard of Oz,PG,"Kids & Family, Musical & Performing Arts",Kirk R. Thatcher,38,36
+Antboy,PG,Action & Adventure,Ask Hasselbalch,43,36
+Closing Escrow,PG,Comedy,"Armen Kaprelian, Kent G. Llewellyn, Kent Llewellyn",54,36
+Africa Screams,G,"Action & Adventure, Classics, Comedy",Charles Barton,60,36
+McHale's Navy,PG,"Action & Adventure, Comedy",Bryan Spicer,3,37
+Christmas With the Kranks,PG,"Comedy, Kids & Family",Joe Roth,5,37
+The Hindenburg,PG,"Action & Adventure, Drama, Mystery & Suspense","Robert Wise, John A. Bolger, Jr.",33,37
+Coneheads,PG,"Comedy, Science Fiction & Fantasy",Steve Barron,35,37
+Jack and the Beanstalk,G,"Classics, Comedy, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",Jean Yarbrough,43,37
+The Deep,PG,"Action & Adventure, Horror, Mystery & Suspense",Peter Yates,44,37
+The Babe,PG,Drama,Arthur Hiller,46,37
+Daddy Day Camp,PG,Comedy,Fred Savage,1,38
+Can't Stop the Music,PG,"Cult Movies, Musical & Performing Arts",Nancy Walker,7,38
+Crocodile Dundee II,PG,"Action & Adventure, Comedy",John Cornell,11,38
+Baby: Secret of the Lost Legend,PG,"Action & Adventure, Drama, Kids & Family, Science Fiction & Fantasy",Bill Norton,13,38
+Cats & Dogs: The Revenge of Kitty Galore,PG,"Action & Adventure, Comedy, Kids & Family",Brad Peyton,13,38
+Air Bud 2 - Golden Receiver,G,"Comedy, Kids & Family",Richard Martin,21,38
+Better Living Through Chemistry,G,"Comedy, Drama","David Posamentier, Geoff Moore",22,38
+Conan the Destroyer,PG,Action & Adventure,Richard Fleischer,26,38
+Airport 1975,PG,"Action & Adventure, Drama, Mystery & Suspense",Jack Smight,27,38
+Dennis the Menace,PG,"Comedy, Kids & Family",Nick Castle Jr.,27,38
+Scooby-Doo,PG,"Comedy, Kids & Family",Raja Gosnell,30,38
+Beneath The Planet Of The Apes,G,"Action & Adventure, Science Fiction & Fantasy",Ted Post,38,38
+Igor,PG,"Animation, Comedy, Kids & Family","Anthony Leondis, Tony Leondis",38,38
+Animal Farm,PG,"Comedy, Drama, Kids & Family, Television",John Stephenson,40,38
+"Easy Come, Easy Go",PG,"Classics, Comedy, Musical & Performing Arts",John Rich,43,38
+Air Bud,PG,"Comedy, Kids & Family",Charles Martin Smith,45,38
+Randy and the Mob,PG,"Comedy, Documentary",Ray McKinnon,56,38
+Popeye,PG,"Action & Adventure, Comedy, Kids & Family, Musical & Performing Arts",Robert Altman,60,38
+Bluebeard,G,"Classics, Drama, Horror, Mystery & Suspense",Edgar G. Ulmer,100,38
+Carpool,PG,Comedy,Arthur Hiller,13,39
+Church Ball,PG,"Comedy, Drama, Faith & Spirituality, Sports & Fitness",Kurt Hale,18,39
+Star Wars: The Clone Wars,PG,"Action & Adventure, Animation, Science Fiction & Fantasy",Dave Filoni,18,39
+All Dogs Go To Heaven 2,G,"Animation, Kids & Family","Larry Leker, Paul Sabella",20,39
+G-Force,PG,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy","Hoyt Yeatman, Hoyt Yeatman IV",22,39
+Ethan Frome,PG,Drama,John Madden,55,39
+Dunston Checks In,PG,"Comedy, Kids & Family",Ken Kwapis,12,40
+The King and I,G,"Animation, Kids & Family, Musical & Performing Arts",Richard Rich,13,40
+Chasing Papi,PG,Comedy,Linda Mendoza,14,40
+3 Ninjas Kick Back,PG,"Action & Adventure, Comedy, Kids & Family",Charles T. Kanganis,15,40
+Jack Frost,PG,"Comedy, Drama, Kids & Family, Science Fiction & Fantasy",Troy Miller,19,40
+Dracula A.D. 1972,PG,"Classics, Horror",Alan Gibson,22,40
+101 Dalmatians,G,"Action & Adventure, Comedy, Kids & Family",Stephen Herek,42,40
+Children Shouldn't Play with Dead Things,PG,"Comedy, Drama, Horror, Mystery & Suspense","Benjamin Clark, Bob Clark",42,40
+Good Boy!,PG,"Comedy, Kids & Family","John Robert Hoffman, John Hoffman",44,40
+Delirious,PG,"Comedy, Science Fiction & Fantasy",Tom Mankiewicz,44,40
+The Bad News Bears in Breaking Training,PG,"Comedy, Kids & Family",Michael Pressman,50,40
+Mighty Joe Young,PG,"Action & Adventure, Drama, Kids & Family",Ron Underwood,55,40
+The Island of Dr. Moreau,PG,"Action & Adventure, Horror, Mystery & Suspense, Science Fiction & Fantasy",Don Taylor,56,40
+Babe: Pig in the City,G,"Comedy, Kids & Family, Science Fiction & Fantasy",George Miller,64,40
+Alpha and Omega,PG,"Action & Adventure, Animation, Comedy, Kids & Family","Anthony Bell, Ben Gluck, Benjamin Gluck",16,41
+The Tooth Fairy,PG,"Comedy, Kids & Family, Science Fiction & Fantasy",Michael Lembeck,18,41
+The Amazing Panda Adventure,PG,"Action & Adventure, Kids & Family",Christopher Cain,20,41
+I'll Be Home for Christmas,PG,"Comedy, Kids & Family",Arlene Sanford,23,41
+Imagine That,PG,Comedy,Karey Kirkpatrick,41,41
+Vice Versa,PG,"Comedy, Kids & Family, Science Fiction & Fantasy",Brian Gilbert,43,41
+Battle For Terra,PG,"Action & Adventure, Animation, Science Fiction & Fantasy",Aristomenis Tsirbas,49,41
+The Computer Wore Tennis Shoes,G,"Classics, Comedy, Kids & Family, Science Fiction & Fantasy",Robert Butler,50,41
+George of the Jungle,PG,"Action & Adventure, Comedy, Kids & Family",Sam Weisman,57,41
+101 Dalmatians II: Patch's London Adventure,G,"Animation, Kids & Family, Musical & Performing Arts","Jim Kammerud, Brian Smith",67,41
+Barney's Great Adventure,G,Kids & Family,Steve Gomer,26,42
+Breakout,PG,Action & Adventure,Tom Gries,33,42
+Ernest Saves Christmas,PG,"Comedy, Kids & Family","John R. Cherry III, John Cherry",36,42
+The Main Event,PG,"Comedy, Special Interest, Romance",Howard Zieff,40,42
+Battle Beyond the Stars,PG,Science Fiction & Fantasy,Jimmy T. Murakami,45,42
+Chasing Madoff,G,"Documentary, Special Interest",Jeff Prosserman,46,42
+The Ant Bully,PG,"Animation, Comedy, Drama, Kids & Family",John A. Davis,62,42
+Earth Girls Are Easy,PG,"Comedy, Musical & Performing Arts, Science Fiction & Fantasy",Julien Temple,67,42
+Dead Hooker in a Trunk,PG,"Action & Adventure, Art House & International, Documentary, Horror","Jen Soska, Sylvia Soska",80,42
+Are We Done Yet?,PG,Comedy,Steve Carr,8,43
+Ernest Rides Again,PG,"Comedy, Kids & Family","John R. Cherry III, Patrice Leung",14,43
+Attack of the Killer Tomatoes!,PG,"Comedy, Horror, Science Fiction & Fantasy",John De Bello,27,43
+Dr. Goldfoot and the Bikini Machine,G,"Action & Adventure, Classics, Comedy, Cult Movies, Science Fiction & Fantasy",Norman Taurog,29,43
+Aliens in the Attic,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",John Schultz,32,43
+Bonneville,PG,"Comedy, Drama","Christopher Rowley, Christopher N. Rowley",40,43
+Beach Party,G,"Classics, Comedy, Drama, Musical & Performing Arts, Romance",William Asher,43,43
+Blacula,PG,"Action & Adventure, Classics, Horror","William Crain, William Cain",48,43
+Audrey Rose,PG,"Drama, Horror, Mystery & Suspense",Robert Wise,50,43
+Corvette Summer,PG,"Action & Adventure, Comedy, Drama",Matthew Robbins,50,43
+Moonraker,PG,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Lewis Gilbert,61,43
+Madeline,PG,"Comedy, Kids & Family","Daisy von Scherler Mayer, Daisy Mayer",63,43
+Blinky Bill The Movie,PG,"Action & Adventure, Animation, Art House & International","Deane Taylor, Noel Cleary, Alexs Stadermann",73,43
+Old Dogs,PG,"Comedy, Drama, Kids & Family","Walt Becker, Walter Becker",5,44
+Cool as Ice,PG,"Action & Adventure, Comedy, Drama, Musical & Performing Arts, Romance",David Kellogg,7,44
+Alaska,PG,"Action & Adventure, Kids & Family",Fraser C. Heston,18,44
+The Beautician and the Beast,PG,"Comedy, Romance",Ken Kwapis,18,44
+Everyone's Hero,G,"Action & Adventure, Animation, Comedy, Kids & Family","Christopher Reeve, Dan St. Pierre, Colin Brady, Daniel St. Pierre",42,44
+Big Fat Liar,PG,"Comedy, Kids & Family",Shawn Levy,43,44
+Billu,PG,"Art House & International, Comedy",Priyadarshan,60,44
+The Disappeared,PG,"Art House & International, Drama, Horror, Mystery & Suspense",Johnny Kevorkian,64,44
+Anzio (Lo sbarco di Anzio),PG,"Action & Adventure, Art House & International, Classics, Drama","Duilio Coletti, Edward Dmytryk",67,44
+The Asphyx,PG,"Classics, Horror, Science Fiction & Fantasy",Peter Newbrook,67,44
+Life is a Bed of Roses,PG,"Art House & International, Comedy, Drama",Alain Resnais,75,44
+House Arrest,PG,"Comedy, Kids & Family",Harry Winer,10,45
+Are We There Yet?,PG,"Action & Adventure, Comedy, Kids & Family, Romance",Brian Levant,12,45
+Fred Claus,PG,Comedy,David Dobkin,20,45
+Any Which Way You Can,PG,"Action & Adventure, Comedy",Buddy Van Horn,20,45
+D3: The Mighty Ducks,PG,"Comedy, Kids & Family",Robert H. Lieberman,20,45
+Bobby Deerfield,PG,"Drama, Romance",Sydney Pollack,31,45
+Michael,PG,"Comedy, Science Fiction & Fantasy",Nora Ephron,38,45
+The Black Hole,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Gary Nelson,40,45
+Bogus,PG,Comedy,Norman Jewison,44,45
+California Suite,PG,"Comedy, Romance",Herbert Ross,57,45
+The Big Picture,PG,"Comedy, Drama",Christopher Guest,91,45
+Bratz: The Movie,PG,"Comedy, Kids & Family",Sean McNamara,9,46
+Cannonball Run II,PG,"Action & Adventure, Comedy",Hal Needham,13,46
+18 Again!,PG,Comedy,Paul Flaherty,29,46
+"Connected: An Autoblogography About Love, Death & Technology",PG,"Documentary, Special Interest",Tiffany Shlain,36,46
+Saawariya,PG,"Art House & International, Drama, Musical & Performing Arts, Romance",Sanjay Leela Bhansali,38,46
+Conquest Of The Planet Of The Apes,PG,"Action & Adventure, Classics, Science Fiction & Fantasy",J. Lee Thompson,48,46
+City of Ember,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Gil Kenan,53,46
+Apache,G,"Classics, Western",Robert Aldrich,78,46
+Captain Kidd,G,"Action & Adventure, Classics, Drama",Rowland V. Lee,100,46
+Catch That Kid,PG,"Action & Adventure, Kids & Family",Bart Freundlich,13,47
+Eragon,PG,"Action & Adventure, Drama, Science Fiction & Fantasy",Stefen Fangmeier,16,47
+Christmas Carol - The Movie,PG,"Animation, Kids & Family",Jimmy T. Murakami,17,47
+A Plumm Summer,PG,"Action & Adventure, Comedy, Kids & Family, Television",Caroline Zelder,20,47
+Chicken Little,G,"Action & Adventure, Animation, Comedy, Kids & Family",Mark Dindal,37,47
+The Great Gatsby,PG,"Classics, Drama, Romance",Jack Clayton,39,47
+A Turtle's Tale: Sammy's Adventures,PG,"Action & Adventure, Animation, Kids & Family",Ben Stassen,44,47
+The Three Stooges,PG,Comedy,"Bobby Farrelly, Peter Farrelly",51,47
+Earth to Echo,PG,Action & Adventure,Dave Green,51,47
+Asylum,PG,"Documentary, Horror, Mystery & Suspense, Science Fiction & Fantasy, Special Interest, Romance",Roy Ward Baker,64,47
+The Baby-Sitters Club,PG,"Comedy, Kids & Family",Melanie Mayron,67,47
+Bronco Billy,PG,Comedy,Clint Eastwood,75,47
+Ernest Goes to Jail,PG,"Comedy, Kids & Family","John Cherry, John R. Cherry III",13,48
+August,PG,"Comedy, Drama, Romance",Anthony Hopkins,14,48
+Daddy Day Care,PG,"Comedy, Kids & Family",Steve Carr,27,48
+Alice Through the Looking Glass,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",James Bobin,29,48
+Almost an Angel,PG,"Comedy, Science Fiction & Fantasy",John Cornell,29,48
+1941,PG,"Action & Adventure, Comedy",Steven Spielberg,39,48
+The Black Cauldron,PG,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy","Ted Berman, Richard Rich",55,48
+An Extremely Goofy Movie,G,"Animation, Comedy, Kids & Family",,63,48
+Dinosaur,PG,"Action & Adventure, Animation, Kids & Family","Ralph Zondag, Eric Leighton",64,48
+The Shaggy Dog,G,"Classics, Comedy, Kids & Family, Science Fiction & Fantasy",Charles Barton,67,48
+Alvin and the Chipmunks: The Squeakquel,PG,"Animation, Comedy, Kids & Family",Betty Thomas,20,49
+Confessions of a Shopaholic,PG,"Comedy, Drama",P.J. Hogan,25,49
+As You Like It,PG,"Comedy, Drama, Romance",Kenneth Branagh,36,49
+Cars 2,G,"Action & Adventure, Animation, Comedy, Kids & Family","John Lasseter, Brad Lewis",39,49
+Flipper,G,"Action & Adventure, Classics, Drama, Kids & Family, Television",James B. Clark,40,49
+Casper,PG,"Drama, Kids & Family, Science Fiction & Fantasy",Brad Silberling,46,49
+Diary of a Wimpy Kid,PG,"Comedy, Kids & Family",Thor Freudenthal,52,49
+The Astronaut Farmer,PG,Drama,Michael Polish,58,49
+"Buffalo Bill and the Indians, or Sitting Bull's History Lesson",PG,"Classics, Comedy, Western",Robert Altman,67,49
+Against The Sun,PG,"Action & Adventure, Drama","Brian Falk, Brian Peter Falk",70,49
+The Great Buck Howard,PG,"Comedy, Drama",Sean McGinly,71,49
+Early Man,PG,"Animation, Comedy, Kids & Family",Nick Park,81,49
+The Barefoot Executive,G,"Classics, Comedy, Kids & Family, Television",Robert Butler,83,49
+College Road Trip,G,Comedy,Roger Kumble,12,50
+Curly Sue,PG,"Comedy, Kids & Family",John Hughes,13,50
+Ernest Scared Stupid,PG,"Comedy, Kids & Family, Science Fiction & Fantasy","John Cherry, John R. Cherry III",17,50
+Airplane 2 - The Sequel,PG,Comedy,Ken Finkleman,42,50
+Dumbo,PG,"Animation, Kids & Family, Science Fiction & Fantasy",Tim Burton,47,50
+The Hunter,PG,"Action & Adventure, Drama, Mystery & Suspense, Television",Buzz Kulik,50,50
+Astro Boy (AstroBoy),PG,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",David Bowers,50,50
+Endurance,PG,"Documentary, Drama","Leslie Woodhead, Bud Greenspan",50,50
+The Drowning Pool,PG,"Classics, Drama, Mystery & Suspense",Stuart Rosenberg,53,50
+Funny Farm,PG,Comedy,George Roy Hill,65,50
+The Miracle,PG,Drama,Neil Jordan,67,50
+The Adventures of Huck Finn,PG,"Action & Adventure, Drama, Kids & Family",Stephen Sommers,73,50
+An Inconvenient Sequel: Truth To Power,PG,Documentary,"Jon Shenk, Bonni Cohen",79,50
+Three Blind Mice,PG,"Comedy, Drama",Matthew Newton,80,50
+Aliens of the Deep,G,"Documentary, Special Interest","James Cameron, Steven Quale",84,50
+The Bigamist,PG,"Classics, Drama",Ida Lupino,86,50
+Alvin and the Chipmunks: Chipwrecked,G,"Animation, Comedy, Kids & Family",Mike Mitchell,11,51
+Bride Wars,PG,Comedy,Gary Winick,11,51
+Alvin and the Chipmunks: The Road Chip,PG,"Animation, Comedy, Kids & Family",Walt Becker,15,51
+Down and Derby,PG,"Comedy, Kids & Family",Eric Hendershot,22,51
+Girls! Girls! Girls!,PG,"Classics, Comedy, Musical & Performing Arts, Special Interest, Romance",Norman Taurog,33,51
+Benji: Off the Leash!,PG,"Drama, Kids & Family",Joe Camp,33,51
+Harriet the Spy,PG,"Action & Adventure, Comedy, Kids & Family",Bronwen Hughes,48,51
+Black Nativity,PG,"Drama, Musical & Performing Arts, Faith & Spirituality",Kasi Lemmons,51,51
+Fun with Dick and Jane,PG,Comedy,Ted Kotcheff,58,51
+Bol Bachchan,PG,Comedy,Rohit Shetty,71,51
+Charlie and the Chocolate Factory,PG,"Comedy, Kids & Family, Science Fiction & Fantasy",Tim Burton,83,51
+Dr. Seuss' The Cat in the Hat,PG,"Comedy, Kids & Family",Bo Welch,9,52
+Baby's Day Out,PG,"Comedy, Kids & Family",Patrick Read Johnson,20,52
+Barnyard,PG,"Animation, Comedy, Kids & Family",Steve Oedekerk,22,52
+Evan Almighty,PG,"Comedy, Science Fiction & Fantasy",Tom Shadyac,23,52
+Backwards,PG,"Drama, Romance, Sports & Fitness",Ben Hickernell,28,52
+The Even Stevens Movie,G,"Comedy, Kids & Family, Television",Sean McNamara,40,52
+Beverly Hills Chihuahua,PG,Comedy,Raja Gosnell,40,52
+CJ7,G,"Art House & International, Comedy, Kids & Family, Science Fiction & Fantasy",Stephen Chow,49,52
+Dim Sum: A Little Bit of Heart,PG,"Art House & International, Comedy",Wayne Wang,88,52
+Antz,PG,"Animation, Comedy, Kids & Family, Science Fiction & Fantasy","Eric Darnell, Tim Johnson",93,52
+A Cinderella Story,PG,"Comedy, Drama, Kids & Family, Romance",Mark Rosman,12,53
+Extraordinary Measures,PG,Drama,Tom Vaughan,28,53
+3 Ninjas,PG,"Action & Adventure, Comedy, Kids & Family",Jon Turteltaub,32,53
+Alex Rider: Operation Stormbreaker,PG,"Action & Adventure, Kids & Family, Mystery & Suspense",Geoffrey Sax,34,53
+Pippi Longstocking,G,"Animation, Kids & Family","Michael Schaack, Clive A. Smith",43,53
+The Beastmaster,PG,"Action & Adventure, Science Fiction & Fantasy",Don Coscarelli,46,53
+Percy Jackson & the Olympians: The Lightning Thief,PG,"Action & Adventure, Comedy, Drama, Science Fiction & Fantasy",Chris Columbus,49,53
+Atlantis - The Lost Empire,PG,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy","Gary Trousdale, Kirk Wise",49,53
+Bee Movie,PG,"Animation, Comedy, Kids & Family","Simon Smith, Simon J. Smith, Steve Hickner, Stephen Hickner",50,53
+Dopamine,G,"Comedy, Documentary, Drama, Romance",Mark Decena,52,53
+Forever Young,PG,"Drama, Kids & Family, Science Fiction & Fantasy, Romance",Steve Miner,57,53
+Dick Tracy,PG,"Action & Adventure, Comedy, Drama",Warren Beatty,63,53
+Blizzard,G,Kids & Family,LeVar Burton,67,53
+Escape from the Planet of the Apes,G,"Classics, Science Fiction & Fantasy",Don Taylor,78,53
+Beach Blanket Bingo,G,"Classics, Comedy, Musical & Performing Arts, Romance",William Asher,80,53
+Posse,PG,"Action & Adventure, Western",Kirk Douglas,80,53
+Know Your Mushrooms,G,"Art House & International, Documentary, Special Interest",Ron Mann,100,53
+A Warrior's Heart,PG,"Action & Adventure, Drama, Kids & Family",Mike Sears,17,54
+All Roads Lead Home,PG,"Drama, Kids & Family",Dennis Fallon,17,54
+Caveman,PG,"Action & Adventure, Comedy, Musical & Performing Arts, Science Fiction & Fantasy",Carl Gottlieb,22,54
+Free Style,PG,"Drama, Kids & Family",William Dear,33,54
+Escape From Planet Earth,PG,"Action & Adventure, Animation, Comedy, Science Fiction & Fantasy",Cal Brunker,35,54
+D.A.R.Y.L.,PG,"Kids & Family, Science Fiction & Fantasy",Simon Wincer,53,54
+Despicable Me 3,PG,"Animation, Comedy, Kids & Family","Kyle Balda, Pierre Coffin, Eric Guillon",58,54
+The Englishman Who Went up a Hill But Came Down A Mountain,PG,"Comedy, Romance",Christopher Monger,58,54
+The Anderson Tapes,PG,"Classics, Drama, Mystery & Suspense",Sidney Lumet,70,54
+Continental Divide,PG,"Comedy, Drama, Romance",Michael Apted,70,54
+It Could Happen to You,PG,"Comedy, Drama, Romance",Andrew Bergman,71,54
+Bite the Bullet,PG,"Action & Adventure, Drama, Western",Richard Brooks,71,54
+Creeping Flesh,PG,"Classics, Horror, Mystery & Suspense",Freddie Francis,80,54
+Beauty and the Beast - The Enchanted Christmas,G,"Animation, Kids & Family, Science Fiction & Fantasy",Andy Knight,13,55
+Mannequin,PG,"Comedy, Science Fiction & Fantasy, Romance",Michael Gottlieb,19,55
+Bedtime Stories,PG,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Adam Shankman,26,55
+Brewster's Millions,PG,Comedy,Walter Hill,36,55
+Churchill,PG,Drama,Jonathan Teplitzky,49,55
+Alice in Wonderland,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Tim Burton,51,55
+Tough Guys,PG,Comedy,Jeff Kanew,57,55
+Brainstorm,PG,"Mystery & Suspense, Science Fiction & Fantasy",Douglas Trumbull,59,55
+Cloak and Dagger,PG,"Action & Adventure, Kids & Family",Richard Franklin,64,55
+BMX Bandits,PG,"Action & Adventure, Comedy, Drama, Kids & Family",Brian Trenchard-Smith,67,55
+Comes a Horseman,PG,"Action & Adventure, Drama, Western, Romance",Alan J. Pakula,70,55
+Project X,PG,"Action & Adventure, Comedy, Drama, Science Fiction & Fantasy",Jonathan Kaplan,75,55
+Dr. Cyclops,G,"Action & Adventure, Classics, Horror, Science Fiction & Fantasy",Ernest B. Schoedsack,77,55
+Rudyard Kipling's The Jungle Book,PG,"Action & Adventure, Drama, Kids & Family","Stephen Sommers, Greg Michael",79,55
+20 Million Miles to Earth,PG,"Classics, Horror, Musical & Performing Arts, Science Fiction & Fantasy",Nathan Juran,80,55
+Benji,G,"Action & Adventure, Documentary, Kids & Family",Joe Camp,86,55
+Encino Man,PG,"Comedy, Science Fiction & Fantasy",Les Mayfield,15,56
+Arthur and the Invisibles (Arthur and the Minimoys),PG,"Animation, Kids & Family, Science Fiction & Fantasy",Luc Besson,22,56
+Cheaper by the Dozen,PG,"Comedy, Kids & Family",Shawn Levy,24,56
+Every Which Way But Loose,PG,"Action & Adventure, Comedy",James Fargo,37,56
+Kid Galahad,G,"Classics, Drama, Musical & Performing Arts",Phil Karlson,40,56
+Hoodwinked,PG,"Animation, Comedy, Kids & Family","Cory Edwards, Todd Edwards, Tony Leech",47,56
+Brother Bear 2,G,"Animation, Kids & Family","Ben Gluck, Benjamin Gluck",50,56
+Bill & Ted's Bogus Journey,PG,"Action & Adventure, Comedy, Science Fiction & Fantasy",Peter Hewitt,54,56
+Blind Terror (See No Evil),PG,"Drama, Horror, Mystery & Suspense",Richard Fleischer,56,56
+Jungle Book,G,"Action & Adventure, Classics, Drama",Zoltan Korda,57,56
+Dil Bole Hadippa! (My Heart Goes Hooray!),PG,"Art House & International, Comedy, Musical & Performing Arts, Sports & Fitness",Anurag Singh,63,56
+Pride and Prejudice,PG,"Comedy, Romance",Andrew Black,66,56
+Day Night Day Night,G,"Action & Adventure, Art House & International, Drama",Julia Loktev,69,56
+Barbarella,PG,"Action & Adventure, Science Fiction & Fantasy",Roger Vadim,73,56
+The Birth of a Nation,G,"Classics, Drama",D.W. Griffith,98,56
+Cheaper by the Dozen 2,PG,"Comedy, Kids & Family",Adam Shankman,6,57
+Doctor Dolittle,G,"Action & Adventure, Classics, Comedy, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",Richard Fleischer,32,57
+Black Coffee,PG,"Comedy, Romance",Mark Harris,40,57
+Ella Enchanted,PG,"Comedy, Kids & Family, Science Fiction & Fantasy, Romance",Tommy O'Haver,50,57
+Dr. Phibes Rises Again,PG,"Action & Adventure, Art House & International, Classics, Comedy, Cult Movies, Horror, Science Fiction & Fantasy",Robert Fuest,60,57
+The Electric Horseman,PG,"Comedy, Drama, Romance",Sydney Pollack,62,57
+Freaky Friday,G,"Comedy, Kids & Family, Science Fiction & Fantasy",Gary Nelson,70,57
+The Big Bus,PG,"Action & Adventure, Comedy, Science Fiction & Fantasy",James Frawley,70,57
+Around the World in 80 Days,G,"Action & Adventure, Comedy, Drama, Kids & Family",Michael Anderson,71,57
+Sky High,PG,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy",Mike Mitchell,73,57
+The Dust Factory,PG,"Drama, Kids & Family, Science Fiction & Fantasy",Eric Small,9,58
+Date with an Angel,PG,"Comedy, Romance",Tom McLoughlin,14,58
+Camp Nowhere,PG,"Action & Adventure, Comedy, Kids & Family",Jonathan Prince,18,58
+Bicentennial Man,PG,"Comedy, Drama, Science Fiction & Fantasy",Chris Columbus,36,58
+The Cheap Detective,PG,Comedy,Robert Moore,47,58
+The Care Bears Movie,G,"Action & Adventure, Animation, Comedy, Kids & Family, Science Fiction & Fantasy",Arna Selznick,50,58
+The Chronicles of Narnia: The Voyage of the Dawn Treader,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Michael Apted,50,58
+Disney's A Christmas Carol,PG,"Animation, Drama, Kids & Family, Science Fiction & Fantasy",Robert Zemeckis,53,58
+Stone of Destiny,PG,"Action & Adventure, Comedy, Drama",Charles Martin Smith,53,58
+"Alexander and the Terrible, Horrible, No Good, Very Bad Day",PG,Kids & Family,Miguel Arteta,61,58
+Samson and Delilah,G,"Classics, Drama",Cecil B. DeMille,63,58
+Diamonds Are Forever,PG,"Action & Adventure, Classics, Mystery & Suspense, Science Fiction & Fantasy",Guy Hamilton,65,58
+Dancing at Lughnasa,PG,"Art House & International, Drama",Pat O'Connor,66,58
+A Master Builder,PG,Documentary,Jonathan Demme,81,58
+D2: The Mighty Ducks,PG,"Comedy, Kids & Family",Sam Weisman,20,59
+The Brothers Karamazov,PG,"Classics, Drama",Richard Brooks,22,59
+Annie,PG,"Drama, Kids & Family, Musical & Performing Arts",Will Gluck,28,59
+Cheetah,G,"Action & Adventure, Kids & Family",Jeff Blyth,50,59
+Breakheart Pass,PG,"Action & Adventure, Mystery & Suspense, Western",Tom Gries,64,59
+Hamlet,PG,"Drama, Romance",Franco Zeffirelli,74,59
+Escape to Witch Mountain,G,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",John Hough,76,59
+Obsession,PG,"Drama, Mystery & Suspense",Brian DePalma,77,59
+The Postman Always Rings Twice,PG,"Drama, Mystery & Suspense",Bob Rafelson,79,59
+Daisy Kenyon,G,"Classics, Drama, Romance",Otto Preminger,100,59
+It Takes Two,PG,"Comedy, Drama, Kids & Family","Andy Tennant, Andrew Tennant",8,60
+Airborne,PG,"Action & Adventure, Comedy, Drama, Kids & Family",Rob Bowman,21,60
+Babes in Toyland,G,"Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy, Romance",Jack Donohue,36,60
+Bambi II,G,"Animation, Kids & Family","Jim Ballantine, Brian Pimental",50,60
+America's Heart and Soul,PG,"Documentary, Special Interest",Louis Schwartzberg,50,60
+The Apple Dumpling Gang,G,"Comedy, Kids & Family, Western",Norman Tokar,56,60
+Executive Action,PG,"Classics, Drama, Mystery & Suspense",David Miller,57,60
+Dad,PG,"Comedy, Drama",Gary David Goldberg,60,60
+Always,PG,"Drama, Science Fiction & Fantasy, Romance",Steven Spielberg,67,60
+A Great Wall,PG,"Art House & International, Comedy, Drama",Peter Wang,71,60
+Four Flies on Grey Velvet (4 mosche di velluto grigio),PG,"Art House & International, Drama, Horror, Mystery & Suspense",Dario Argento,75,60
+Dracula Has Risen From the Grave,G,"Classics, Drama, Horror, Romance",Freddie Francis,80,60
+The Accidental Tourist,PG,"Comedy, Drama, Romance",Lawrence Kasdan,81,60
+Downhill Racer,PG,"Action & Adventure, Classics, Drama",Michael Ritchie,84,60
+Islands in the Stream,PG,Drama,Franklin J. Schaffner,88,60
+King Solomon's Mines,G,"Action & Adventure, Classics, Drama","Compton Bennett, Andrew Marton",92,60
+Batman vs. Two-Face,PG,,Rick Morales,100,60
+The Green Berets,G,"Action & Adventure, Classics, Drama","John Wayne, Ray Kellogg",25,61
+Bobby Jones: Stroke of Genius,PG,Drama,Rowdy Herrington,26,61
+Battlestar Galactica,PG,"Action & Adventure, Science Fiction & Fantasy, Television",Richard A. Colla,32,61
+Diary of a Wimpy Kid 2: Rodrick Rules,PG,"Comedy, Drama, Kids & Family",David Bowers,47,61
+Broken Hill,PG,"Drama, Kids & Family",Dagen Merrill,50,61
+Aquamarine,PG,"Comedy, Drama, Kids & Family, Science Fiction & Fantasy",Elizabeth Allen,51,61
+Jack Frost,G,"Animation, Kids & Family, Musical & Performing Arts, Television","Jules Bass, Arthur Rankin Jr.",57,61
+Arctic Tale,G,"Documentary, Special Interest","Adam Ravetch, Sarah Robertson",61,61
+2010,PG,"Mystery & Suspense, Science Fiction & Fantasy",Peter Hyams,65,61
+The Brides of Dracula,G,"Classics, Horror",Terence Fisher,75,61
+Cinderella III: A Twist in Time,G,"Animation, Kids & Family",Frank Nissen,75,61
+"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",PG,"Kids & Family, Science Fiction & Fantasy",Andrew Adamson,76,61
+Dangerous,G,"Classics, Drama",Alfred E. Green,80,61
+Carousel,G,"Drama, Horror, Musical & Performing Arts, Romance",Henry King,83,61
+Ballet 422,PG,"Documentary, Drama, Musical & Performing Arts",Jody Lee Lipes,87,61
+Car Wash,PG,"Comedy, Drama, Romance",Michael Schultz,87,61
+Captain Underpants: The First Epic Movie (Captain Underpants),PG,"Animation, Comedy",David Soren,88,61
+The Freshman,PG,"Comedy, Drama",Andrew Bergman,93,61
+The Three Musketeers,PG,"Action & Adventure, Comedy, Kids & Family, Romance",Stephen Herek,31,62
+Alice in Wonderland,G,"Action & Adventure, Comedy, Kids & Family, Television",Nick Willing,33,62
+Ice Age: Dawn of the Dinosaurs (Ice Age 3),PG,"Action & Adventure, Animation, Comedy, Kids & Family","Carlos Saldanha, Mike Thurmeier",46,62
+An American Tail - Fievel Goes West,G,"Action & Adventure, Animation, Kids & Family, Western","Phil Nibbelink, Simon Wells",54,62
+Jumanji,PG,"Action & Adventure, Comedy, Kids & Family, Science Fiction & Fantasy, Romance",Joe Johnston,54,62
+Benji the Hunted,G,"Action & Adventure, Comedy, Kids & Family",Joe Camp,56,62
+All Stars,PG,"Art House & International, Comedy",Ben Gregor,56,62
+Sacred Planet,G,"Documentary, Drama, Special Interest",Jon Long,58,62
+Babies,PG,"Documentary, Special Interest",Thomas Balmès,68,62
+Baby Boom,PG,"Comedy, Drama",Charles Shyer,74,62
+Batman: The Movie,PG,"Action & Adventure, Drama, Science Fiction & Fantasy",Leslie H. Martinson,78,62
+Bus Stop,G,"Comedy, Drama, Romance",Joshua Logan,79,62
+Charlotte's Web,G,"Animation, Drama, Kids & Family",Gary Winick,79,62
+Cairo Time,PG,"Art House & International, Drama, Romance",Ruba Nadda,81,62
+Dragonslayer,PG,"Action & Adventure, Science Fiction & Fantasy",Matthew Robbins,87,62
+Bang The Drum Slowly,PG,"Classics, Comedy, Drama, Sports & Fitness","John D. Hancock, John Hancock",92,62
+Matinee,PG,"Comedy, Drama, Horror, Kids & Family",Joe Dante,94,62
+Burton And Taylor,PG,Drama,Richard Laxton,100,62
+Oscar,PG,"Comedy, Drama, Mystery & Suspense",John Landis,12,63
+A Dog of Flanders,PG,"Drama, Kids & Family",Kevin Brodie,21,63
+Wuthering Heights,G,"Art House & International, Classics, Drama, Romance",Robert Fuest,50,63
+Tron Legacy,PG,"Action & Adventure, Science Fiction & Fantasy",Joseph Kosinski,51,63
+Diary of a Wimpy Kid: Dog Days,PG,"Comedy, Kids & Family",David Bowers,52,63
+Because of Winn-Dixie,PG,"Comedy, Drama, Kids & Family, Sports & Fitness",Wayne Wang,55,63
+All Dogs Go To Heaven,G,"Action & Adventure, Animation, Kids & Family","Don Bluth, Gary Goldman, Dan Kuenster",58,63
+The Prince and the Pauper,PG,"Action & Adventure, Classics, Drama",William Keighley,60,63
+Billy Jack,PG,"Action & Adventure, Classics, Cult Movies, Drama, Special Interest","Tom Laughlin, T.C. Frank",60,63
+White Fang,PG,"Action & Adventure, Drama, Kids & Family",Randal Kleiser,63,63
+Back to the Beach,PG,"Comedy, Musical & Performing Arts",Lyndall Hobbs,71,63
+The Emperor's New Clothes,PG,"Comedy, Drama",Alan Taylor,73,63
+Comic Book Confidential,PG,"Documentary, Musical & Performing Arts, Special Interest","Ron Mann, Charles Lippincott",75,63
+The Adventures of Elmo in Grouchland,G,"Comedy, Kids & Family, Science Fiction & Fantasy",Gary Halvorson,77,63
+Absence Of Malice,PG,"Drama, Mystery & Suspense, Romance",Sydney Pollack,80,63
+The Absent-Minded Professor,G,"Comedy, Kids & Family, Science Fiction & Fantasy","Robert Stevenson, Robert Stevens",82,63
+Mysterious Island,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy","Cyril Endfield, Cy Endfield",85,63
+Mighty Joe Young,PG,"Action & Adventure, Classics, Drama, Science Fiction & Fantasy",Ernest B. Schoedsack,95,63
+Suddenly,PG,"Action & Adventure, Classics, Drama, Mystery & Suspense",Lewis Allen,100,63
+Alvin and the Chipmunks,PG,"Animation, Comedy, Kids & Family",Tim Hill,28,64
+Brother Bear,G,"Animation, Kids & Family","Aaron Blaise, Bob Walker",37,64
+The Blue Butterfly,PG,"Action & Adventure, Drama, Kids & Family",Léa Pool,44,64
+Pocahontas,G,"Action & Adventure, Animation, Drama","Eric Goldberg, Mike Gabriel",55,64
+*batteries not included,G,"Comedy, Kids & Family, Science Fiction & Fantasy",Matthew Robbins,60,64
+Born Losers,PG,"Action & Adventure, Art House & International, Classics, Drama, Mystery & Suspense","Tom Laughlin, T.C. Frank",60,64
+The Odessa File,PG,"Action & Adventure, Art House & International, Classics, Drama, Mystery & Suspense",Ronald Neame,64,64
+Sabrina,PG,"Comedy, Drama, Romance",Sydney Pollack,65,64
+Christmas in the Clouds,PG,"Comedy, Kids & Family, Romance",Kate Montgomery,69,64
+Big Miracle,PG,"Action & Adventure, Comedy, Drama, Romance",Ken Kwapis,75,64
+American Folk,PG,"Drama, Musical & Performing Arts",David Heinz,76,64
+Bandslam,PG,"Comedy, Drama, Musical & Performing Arts",Todd Graff,81,64
+Dead of Night (Deathdream),PG,"Drama, Horror, Mystery & Suspense",Bob Clark,83,64
+The Mummy,G,"Art House & International, Classics, Horror",Terence Fisher,89,64
+Chicken Run,G,"Action & Adventure, Animation, Comedy, Drama, Kids & Family","Peter Lord, Nick Park",97,64
+Condorman,PG,"Action & Adventure, Art House & International, Comedy, Mystery & Suspense, Science Fiction & Fantasy",Charles Jarrott,25,65
+The Undefeated,G,"Classics, Western",Andrew V. McLaglen,29,65
+The Carpetbaggers,PG,"Classics, Drama, Romance",Edward Dmytryk,29,65
+Epic,PG,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",Chris Wedge,64,65
+Chances Are,PG,"Comedy, Science Fiction & Fantasy, Romance",Emile Ardolino,67,65
+Ivanhoe,G,"Action & Adventure, Art House & International, Classics, Drama, Romance",Richard Thorpe,80,65
+Eid milad Laila (Laila's Birthday),G,"Art House & International, Comedy, Drama",Rashid Masharawi,80,65
+Clockwise,PG,"Action & Adventure, Comedy","Chris Morahan, Christopher Morahan",80,65
+A Monster in Paris,PG,"Animation, Kids & Family",Bibo Bergeron,87,65
+Daughters of the Dust,PG,"Drama, Romance",Julie Dash,98,65
+The Last Song,PG,"Drama, Kids & Family, Romance",Julie Ann Robinson,20,66
+X Games 3D: The Movie,PG,"Documentary, Sports & Fitness","Steven Lawrence, Steven Lawrence",38,66
+Gone in 60 Seconds,PG,"Action & Adventure, Cult Movies, Drama, Mystery & Suspense",H.B. Halicki,43,66
+Paheli,G,"Art House & International, Drama, Mystery & Suspense, Science Fiction & Fantasy",Amol Palekar,57,66
+Cloudy with a Chance of Meatballs 2,PG,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy","Kris Pearn, Cody Cameron",71,66
+The Love Bug,G,"Action & Adventure, Classics, Comedy, Kids & Family, Science Fiction & Fantasy",Robert Stevenson,75,66
+Explorers,PG,"Drama, Kids & Family, Science Fiction & Fantasy",Joe Dante,77,66
+Coma,PG,"Action & Adventure, Mystery & Suspense",Michael Crichton,80,66
+Cheaper by the Dozen,PG,"Classics, Comedy, Kids & Family",Walter Lang,80,66
+Bye Bye Birdie,G,"Classics, Comedy, Kids & Family, Musical & Performing Arts",George Sidney,89,66
+Ballet Shoes,PG,"Drama, Kids & Family",Sandra Goldbacher,100,66
+Conversations With God,PG,"Drama, Faith & Spirituality","Stephen Deutsch, Stephen Simon",7,67
+Clifford,PG,"Comedy, Kids & Family",Paul Flaherty,10,67
+Blue Hawaii,PG,"Classics, Musical & Performing Arts, Romance",Norman Taurog,29,67
+Thumbelina,G,"Animation, Kids & Family","Don Bluth, Gary Goldman",30,67
+Wide Awake,PG,"Comedy, Drama, Kids & Family",M. Night Shyamalan,40,67
+Cantinflas,PG,Drama,Sebastián del Amo,45,67
+Three Amigos!,PG,"Comedy, Western",John Landis,46,67
+Dance with Me,PG,"Comedy, Drama, Musical & Performing Arts, Romance",Randa Haines,51,67
+Short Circuit,PG,"Comedy, Kids & Family, Science Fiction & Fantasy",John Badham,58,67
+Angel and the Badman,PG,"Classics, Western, Romance",James Edward Grant,71,67
+Charlotte's Web,G,"Animation, Kids & Family","Charles A. Nichols, Iwao Takamoto",76,67
+Puss in Boots,PG,"Action & Adventure, Animation, Comedy, Kids & Family, Science Fiction & Fantasy",Chris Miller,85,67
+All of Me,PG,"Comedy, Science Fiction & Fantasy",Carl Reiner,92,67
+Batman: Return Of The Caped Crusaders,PG,,Rick Morales,94,67
+Babe,G,"Action & Adventure, Drama, Kids & Family, Science Fiction & Fantasy",Chris Noonan,97,67
+Expelled: No Intelligence Allowed,PG,"Documentary, Special Interest",Nathan Frankowski,11,68
+Uncle Nino,PG,"Comedy, Drama",Robert Shallcross,21,68
+The Final Season,PG,"Art House & International, Drama",David Mickey Evans,24,68
+Believe,PG,Drama,Billy Dickson,33,68
+Only You,PG,"Comedy, Romance",Norman Jewison,52,68
+Evita,PG,"Drama, Musical & Performing Arts",Alan Parker,63,68
+The Eagle Has Landed,PG,"Action & Adventure, Art House & International, Mystery & Suspense",John Sturges,67,68
+Exporting Raymond,PG,"Art House & International, Comedy, Documentary, Special Interest, Television",Phil Rosenthal,72,68
+Destroy All Monsters,G,"Action & Adventure, Anime & Manga, Art House & International, Classics, Horror, Science Fiction & Fantasy",Ishirô Honda,75,68
+Bright Star,PG,"Drama, Romance",Jane Campion,83,68
+Monkey Business,PG,"Classics, Comedy, Drama, Science Fiction & Fantasy",Howard Hawks,88,68
+Heaven Can Wait,PG,"Comedy, Science Fiction & Fantasy, Romance, Sports & Fitness","Warren Beatty, Buck Henry",89,68
+Stage Fright,G,"Classics, Documentary, Drama, Mystery & Suspense",Alfred Hitchcock,90,68
+Treasure Island,PG,"Action & Adventure, Classics, Kids & Family",Byron Haskin,100,68
+Defence of the Realm (Defense of the Realm),PG,"Drama, Mystery & Suspense",David Drury,100,68
+Cromwell,G,"Action & Adventure, Classics, Drama",Ken Hughes,33,69
+"Corrina, Corrina",PG,"Comedy, Drama, Romance",Jessie Nelson,39,69
+Darling Lili,G,"Classics, Drama, Musical & Performing Arts, Mystery & Suspense",Blake Edwards,40,69
+Big Business,PG,Comedy,Jim Abrahams,44,69
+Dirty Mary Crazy Larry,PG,"Action & Adventure, Drama",John Hough,50,69
+Annie,G,"Comedy, Kids & Family, Musical & Performing Arts",John Huston,56,69
+Simon,PG,"Comedy, Science Fiction & Fantasy",Marshall Brickman,57,69
+Cleopatra,G,"Classics, Drama",Joseph L. Mankiewicz,61,69
+The 11th Hour,PG,"Documentary, Special Interest","Nadia Conners, Leila Conners",67,69
+The Boy Who Could Fly,PG,"Drama, Kids & Family, Science Fiction & Fantasy",Nick Castle Jr.,67,69
+Cars 3,G,"Animation, Comedy, Kids & Family",Brian Fee,69,69
+Curious George,G,"Animation, Comedy, Kids & Family",Matthew O'Callaghan,70,69
+A Cop (Un Flic),PG,"Art House & International, Drama",Jean-Pierre Melville,78,69
+Flash Gordon,PG,"Action & Adventure, Comedy, Science Fiction & Fantasy",Mike Hodges,80,69
+Black White + Gray: A Portrait of Sam Wagstaff and Robert Mapplethorpe,PG,"Documentary, Musical & Performing Arts, Special Interest, Gay & Lesbian",James Crump,85,69
+DuckTales: The Movie - Treasure of the Lost Lamp,G,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",Bob Hathcock,88,69
+Rocky,PG,"Drama, Sports & Fitness",John G. Avildsen,94,69
+Indiscreet,PG,"Classics, Comedy, Romance",Stanley Donen,100,69
+Chasing Mavericks,PG,Drama,"Curtis Hanson, Michael Apted",32,70
+Camelot,G,"Action & Adventure, Classics, Comedy, Drama, Musical & Performing Arts, Science Fiction & Fantasy, Romance","Joshua Logan, Moss Hart",44,70
+Balto,G,"Action & Adventure, Animation, Kids & Family",Simon Wells,54,70
+The Perfect Game,PG,"Drama, Kids & Family, Sports & Fitness",William Dear,57,70
+Awake: The Life Of Yogananda,PG,Documentary,"Lisa Leeman, Paola di Florio",64,70
+Mumbai Diaries,PG,"Art House & International, Drama",Kiran Rao (II),65,70
+The Aristocats,G,"Animation, Comedy, Kids & Family, Musical & Performing Arts","Wolfgang Reitherman, Milt Kahl",66,70
+Exodus,G,"Classics, Drama",Otto Preminger,67,70
+American Teacher,G,"Documentary, Special Interest","Vanessa Roth, Brian McGinn",67,70
+Beer Wars,PG,"Documentary, Drama, Special Interest",Anat Baron,67,70
+Buena Vista Social Club: Adios,PG,Documentary,Lucy Walker,68,70
+Clash of the Titans,PG,"Action & Adventure, Drama, Science Fiction & Fantasy",Desmond Davis,68,70
+Father of the Bride,PG,Comedy,Charles Shyer,70,70
+The Hunchback of Notre Dame,G,"Animation, Drama, Kids & Family","Gary Trousdale, Kirk Wise",71,70
+The Rookie,G,Drama,John Lee Hancock,84,70
+Bridge to Terabithia,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Gabor Csupo,85,70
+The Parent Trap,PG,"Comedy, Kids & Family","Charles Shyer, Nancy Meyers",86,70
+Broken Arrow,G,"Action & Adventure, Classics, Drama, Western, Romance",Delmer Daves,89,70
+Dumbo,G,"Animation, Kids & Family, Science Fiction & Fantasy","Sam Armstrong, Jack Kinney, Norman Ferguson, Wilfred Jackson, Bill Roberts, Ben Sharpsteen, Samuel Armstrong",98,70
+Change in the Air,PG,Drama,Dianne Dreyer,11,71
+The Jazz Singer,PG,"Drama, Musical & Performing Arts",Richard Fleischer,19,71
+Amazing Grace and Chuck,PG,"Drama, Kids & Family",Mike Newell,29,71
+Footloose,PG,"Drama, Musical & Performing Arts, Romance",Herbert Ross,51,71
+Return to Oz,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Walter Murch,52,71
+A Dog's Way Home,PG,Drama,Charles Martin Smith,60,71
+Chitty Chitty Bang Bang,G,"Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",Ken Hughes,67,71
+An American Tail,G,"Action & Adventure, Animation, Kids & Family",Don Bluth,70,71
+Victory,PG,"Action & Adventure, Drama",John Huston,71,71
+Deathtrap,PG,"Comedy, Drama, Mystery & Suspense",Sidney Lumet,75,71
+Silver Streak,PG,"Action & Adventure, Comedy, Romance",Arthur Hiller,80,71
+Blackbeard's Ghost,G,"Comedy, Kids & Family, Science Fiction & Fantasy",Robert Stevenson,82,71
+The Boy Friend,G,"Comedy, Musical & Performing Arts, Romance",Ken Russell,83,71
+24 City (Er shi si cheng ji),G,"Art House & International, Documentary, Drama",Zhangke Jia,91,71
+Bad Company,PG,"Action & Adventure, Drama, Western",Robert Benton,91,71
+The Adventures of Ichabod and Mr. Toad,G,"Animation, Classics, Kids & Family, Science Fiction & Fantasy","James Algar, Clyde Geronimi, Jack Kinney",93,71
+"Goodbye, Mr. Chips",G,"Drama, Musical & Performing Arts, Romance",Herbert Ross,100,71
+Running Free,G,"Action & Adventure, Drama, Kids & Family",Sergey Bodrov,27,72
+A Home of Our Own,PG,"Drama, Kids & Family",Tony Bill,50,72
+High School Musical 3: Senior Year,G,Musical & Performing Arts,Kenny Ortega,64,72
+Dolphin Tale 2,PG,"Drama, Kids & Family",Charles Martin Smith,65,72
+The Andromeda Strain,G,"Classics, Mystery & Suspense, Science Fiction & Fantasy",Robert Wise,67,72
+Don 2,PG,"Art House & International, Mystery & Suspense",Farhan Akhtar,69,72
+Frosty the Snowman,G,"Animation, Kids & Family","Arthur Rankin Jr., Jules Bass",73,72
+Tommy,PG,"Drama, Musical & Performing Arts",Ken Russell,74,72
+The Assassination Bureau,PG,"Action & Adventure, Art House & International, Comedy, Mystery & Suspense",Basil Dearden,75,72
+The Bounty,PG,"Action & Adventure, Drama",Roger Donaldson,78,72
+Countdown to Zero,PG,"Documentary, Special Interest",Lucy Walker,79,72
+Dead Men Don't Wear Plaid,PG,"Comedy, Mystery & Suspense",Carl Reiner,79,72
+Cannery Row,PG,"Classics, Comedy, Drama, Romance",David S. Ward,80,72
+"Dancer, Texas Pop. 81",PG,"Comedy, Drama",Tim McCanlies,80,72
+A Cat in Paris,PG,"Animation, Art House & International, Comedy, Kids & Family, Mystery & Suspense","Alain Gagnol, Jean-Loup Felicioli",83,72
+Brigadoon,G,"Classics, Drama, Musical & Performing Arts, Science Fiction & Fantasy, Romance",Vincente Minnelli,85,72
+Cloudy With a Chance of Meatballs,PG,"Animation, Comedy, Kids & Family","Chris Miller, Christopher Miller, Phil Lord",86,72
+Blind Spot: Hitler's Secretary,PG,"Art House & International, Documentary, Special Interest","André Heller, Othmar Schmiderer",86,72
+Evil Under the Sun,PG,"Action & Adventure, Art House & International, Drama, Mystery & Suspense, Television",Guy Hamilton,86,72
+A Bug's Life,G,"Animation, Kids & Family, Science Fiction & Fantasy","John Lasseter, Andrew Stanton",92,72
+House of Wax,PG,"Drama, Horror, Mystery & Suspense",André De Toth,95,72
+All Saints,PG,Drama,Steve Gomer,95,72
+E.T. The Extra-Terrestrial,PG,"Kids & Family, Science Fiction & Fantasy",Steven Spielberg,98,72
+The Apprenticeship of Duddy Kravitz,PG,"Art House & International, Classics, Comedy, Drama",Ted Kotcheff,100,72
+Barbarosa,PG,"Action & Adventure, Western",Fred Schepisi,100,72
+Belle's Magical World,G,"Animation, Comedy, Kids & Family","Bob Kline, Cullen Blaine",17,73
+2016: Obama's America,PG,"Documentary, Special Interest","Dinesh D'Souza, John Sullivan",26,73
+A Dog's Purpose,PG,"Comedy, Drama",Lasse Hallstrom,35,73
+Legend,PG,"Drama, Science Fiction & Fantasy",Ridley Scott,36,73
+Convoy,PG,"Action & Adventure, Drama",Sam Peckinpah,43,73
+Digging to China,PG,Drama,Timothy Hutton,43,73
+The Chronicles of Narnia: Prince Caspian,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy","Andrew Adamson, David Strangmuller",66,73
+Darfur Now,PG,"Documentary, Drama, Musical & Performing Arts, Special Interest","Ted Braun, Theodore Braun",73,73
+The Sunshine Boys,PG,"Classics, Comedy, Drama",Herbert Ross,78,73
+Casey's Shadow,PG,"Action & Adventure, Comedy, Drama, Kids & Family",Martin Ritt,78,73
+Bustin' Down the Door,PG,"Documentary, Sports & Fitness",Jeremy Gosch,79,73
+9 to 5,PG,"Classics, Comedy",Colin Higgins,82,73
+Creature from the Black Lagoon,G,"Classics, Cult Movies, Horror, Science Fiction & Fantasy",Jack Arnold,85,73
+The Intruder (L'Intrus),G,"Art House & International, Drama",Claire Denis,86,73
+Moby Dick,G,"Action & Adventure, Classics, Drama",John Huston,86,73
+Quo Vadis?,PG,"Classics, Documentary, Drama, Special Interest, Romance, Faith & Spirituality",Mervyn LeRoy,88,73
+Bambi,G,"Animation, Classics, Kids & Family, Science Fiction & Fantasy","David Hand, Samuel Armstrong, Bill Roberts, James Algar, Graham Heid, Paul Satterfield, David D. Hand, Norman Wright, Perce Pearce",90,73
+Matilda,PG,"Comedy, Kids & Family, Special Interest",Danny DeVito,90,73
+A Place at the Table,PG,Documentary,"Kristi Jacobson, Lori Silverbush",90,73
+Coraline,PG,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy",Henry Selick,91,73
+Cave of Forgotten Dreams,G,"Documentary, Special Interest",Werner Herzog,96,73
+Don't Trip...He Ain't Through with Me Yet,PG,"Comedy, Musical & Performing Arts",Leslie Small,45,74
+Cool It,PG,Documentary,Ondi Timoner,51,74
+Becoming Jane,PG,"Drama, Romance",Julian Jarrold,58,74
+Tempest,PG,"Comedy, Documentary, Drama, Special Interest",Paul Mazursky,60,74
+Bedknobs and Broomsticks,G,"Action & Adventure, Comedy, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",Robert Stevenson,66,74
+Peter Pan,PG,"Kids & Family, Science Fiction & Fantasy",P.J. Hogan,76,74
+Another Country,PG,"Drama, Mystery & Suspense",Marek Kanievska,80,74
+Bedazzled,PG,"Classics, Comedy, Science Fiction & Fantasy",Stanley Donen,82,74
+Chisum,G,"Classics, Western",Andrew V. McLaglen,83,74
+The Princess and the Frog,G,"Animation, Comedy, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy, Romance","John Musker, Ron Clements",85,74
+The Candidate,PG,"Classics, Drama",Michael Ritchie,87,74
+"20,000 Leagues Under The Sea",G,"Action & Adventure, Drama, Kids & Family",Richard Fleischer,89,74
+Bolt,PG,"Action & Adventure, Animation, Comedy","Byron Howard, Chris Williams (IX)",89,74
+Father of the Bride,G,"Classics, Comedy, Drama",Vincente Minnelli,93,74
+Romeo and Juliet,PG,"Drama, Romance",Franco Zeffirelli,94,74
+A Christmas Carol,G,"Classics, Drama, Kids & Family, Science Fiction & Fantasy",Edwin L. Marin,100,74
+Heidi,G,"Action & Adventure, Classics, Drama, Kids & Family",Allan Dwan,100,74
+Cat Ballou,G,"Classics, Comedy, Musical & Performing Arts, Western","Elliot Silverstein, Elliott Silverstein",100,74
+Camp Rock,G,"Comedy, Kids & Family, Musical & Performing Arts, Television, Romance",Matthew Diamond,45,75
+The Education of Little Tree,PG,"Drama, Kids & Family",Richard Friedenberg,59,75
+The Express,PG,Drama,Gary Fleder,61,75
+Another Woman,PG,Drama,Woody Allen,63,75
+Disneynature Chimpanzee,G,Documentary,"Alastair Fothergill, Mark Linfield",75,75
+Disneynature Crimson Wing,G,Documentary,"Matthew Aeberhard, Leander Ward",75,75
+Nicholas Nickleby,PG,Drama,Douglas McGrath,78,75
+The Poseidon Adventure,PG,"Action & Adventure, Drama, Mystery & Suspense","Ronald Neame, Irwin Allen",79,75
+Bill and Ted's Excellent Adventure,PG,"Action & Adventure, Comedy, Science Fiction & Fantasy",Stephen Herek,79,75
+Rock 'n' Roll High School,PG,Comedy,Allan Arkush,80,75
+Disneynature Oceans,G,"Documentary, Drama","Jacques Cluzaud, Jacques Perrin",81,75
+Bright Eyes,PG,"Action & Adventure, Classics, Comedy, Documentary, Drama, Musical & Performing Arts",David Butler,82,75
+The Age of Innocence,PG,"Drama, Romance",Martin Scorsese,83,75
+The Panic in Needle Park,PG,"Classics, Drama",Jerry Schatzberg,85,75
+Captain January,G,"Action & Adventure, Classics, Comedy, Drama, Musical & Performing Arts",David Butler,86,75
+Christmas in Connecticut,G,"Classics, Comedy",Peter Godfrey,88,75
+The Parent Trap,G,"Classics, Comedy, Kids & Family, Romance",David Swift,90,75
+The Wrong Man,PG,"Classics, Drama",Alfred Hitchcock,91,75
+Under the Sea 3D,G,Documentary,Howard Hall,94,75
+Death of a Salesman,PG,"Drama, Television",Volker Schlöndorff,100,75
+Don't Bother to Knock,PG,"Classics, Drama, Mystery & Suspense",Roy Ward Baker,100,75
+Joshua,G,Drama,Jon Purdy,22,76
+Carbon Nation,PG,"Documentary, Special Interest",Peter Byck,40,76
+Jesus Christ Superstar,G,"Drama, Musical & Performing Arts, Faith & Spirituality",Norman Jewison,55,76
+The Cutting Edge,PG,"Comedy, Drama, Romance",Paul Michael Glaser,56,76
+Electra Glide in Blue,PG,"Action & Adventure, Drama",James William Guercio,60,76
+The Lottery,PG,"Documentary, Special Interest",Madeleine Sackler,62,76
+Cross Creek,PG,Drama,Martin Ritt,67,76
+The Mercenaries (Dark of the Sun),PG,"Action & Adventure, Drama",Jack Cardiff,67,76
+Dinosaur 13,PG,"Action & Adventure, Documentary, Drama, Special Interest",Todd Douglas Miller,73,76
+Brave,PG,"Animation, Comedy, Kids & Family","Brenda Chapman, Mark Andrews",78,76
+Black Beauty,G,"Action & Adventure, Drama, Kids & Family",Caroline Thompson,80,76
+The Hunchback of Notre Dame,PG,"Classics, Drama, Horror, Special Interest","Wallace Worsley, Wallace Worsley Sr.",91,76
+Arthur Christmas,PG,"Animation, Comedy, Kids & Family","Sarah Smith, Barry Cook",92,76
+Disneynature Monkey Kingdom,G,Documentary,"Mark Linfield, Alastair Fothergill",93,76
+Boy and the World (O Menino e o Mundo),PG,"Animation, Art House & International",Alê Abreu,93,76
+April and the Extraordinary World (Avril et le monde truqué),PG,"Action & Adventure, Animation, Comedy","Christian Desmares, Franck Ekinci",96,76
+101 Dalmatians,G,"Animation, Classics, Comedy, Kids & Family, Mystery & Suspense","Clyde Geronimi, Hamilton S. Luske, Wolfgang Reitherman, Hamilton Luske",98,76
+The Color of Friendship,G,"Drama, Kids & Family, Television",Kevin Hooks,100,76
+Goal! The Dream Begins (Goal!: The Impossible Dream),PG,"Drama, Sports & Fitness",Danny Cannon,42,77
+"Brother Sun, Sister Moon (Fratello sole, sorella luna)",PG,"Classics, Drama, Faith & Spirituality",Franco Zeffirelli,42,77
+Dog Days,PG,Comedy,Ken Marino,63,77
+Selena,PG,Drama,Gregory Nava,67,77
+Far From the Madding Crowd,PG,"Drama, Romance",John Schlesinger,72,77
+Separate Tables,G,"Classics, Drama",Delbert Mann,73,77
+African Cats,G,"Action & Adventure, Documentary, Special Interest","Keith Scholey, Alastair Fothergill",73,77
+Before the Flood,PG,Documentary,Fisher Stevens,73,77
+The Diary of Anne Frank,PG,"Classics, Drama",George Stevens,78,77
+Emma,PG,"Comedy, Romance",Douglas McGrath,84,77
+Tim Burton's Corpse Bride,PG,"Action & Adventure, Animation, Comedy, Kids & Family, Science Fiction & Fantasy","Tim Burton, Mike Johnson",84,77
+Anastasia,G,"Action & Adventure, Animation, Drama, Kids & Family",Don Bluth,85,77
+Alfie,PG,"Classics, Comedy, Drama, Romance",Lewis Gilbert,96,77
+The Winslow Boy,G,Drama,David Mamet,97,77
+Intolerance,PG,Classics,D.W. Griffith,97,77
+The Yearling,G,"Classics, Kids & Family",Clarence Brown,100,77
+Captain Horatio Hornblower,G,"Action & Adventure, Classics, Drama",Raoul Walsh,100,77
+Darby O'Gill and the Little People,G,"Kids & Family, Science Fiction & Fantasy",Robert Stevenson,100,77
+A Star Is Born,PG,"Classics, Drama","William Wellman, Jack Conway",100,77
+Them!,PG,"Classics, Horror, Science Fiction & Fantasy",Gordon Douglas,100,77
+The Buddy Holly Story,PG,"Drama, Musical & Performing Arts",Steve Rash,100,77
+A Question of Faith,PG,Drama,Kevan Otto,40,78
+Fandango,PG,"Comedy, Drama",Kevin Reynolds,50,78
+Contact,PG,"Mystery & Suspense, Science Fiction & Fantasy",Robert Zemeckis,63,78
+Dreamer: Inspired by a True Story,PG,"Drama, Kids & Family",John Gatins,64,78
+Evelyn,PG,"Art House & International, Drama",Bruce Beresford,64,78
+Dumbstruck,PG,"Documentary, Special Interest",Mark Goffman,71,78
+Back to the Future Part III,PG,"Action & Adventure, Comedy, Science Fiction & Fantasy",Robert Zemeckis,79,78
+Alice in Wonderland,G,"Animation, Classics, Comedy, Kids & Family, Science Fiction & Fantasy","Clyde Geronimi, Wilfred Jackson, Hamilton Luske",81,78
+Swiss Family Robinson,G,"Action & Adventure, Kids & Family",Ken Annakin,82,78
+The Three Musketeers,PG,"Action & Adventure, Comedy",Richard Lester,83,78
+Avalon,PG,Drama,Barry Levinson,83,78
+Elf,PG,"Comedy, Kids & Family, Special Interest",Jon Favreau,83,78
+The Cincinnati Kid,G,"Classics, Drama",Norman Jewison,85,78
+Poltergeist,PG,Horror,Tobe Hooper,85,78
+Cinderella,PG,"Kids & Family, Science Fiction & Fantasy, Romance",Kenneth Branagh,85,78
+The Snow Walker,PG,"Action & Adventure, Drama",Charles Martin Smith,86,78
+The Big Red One,PG,"Action & Adventure, Drama",Samuel Fuller,90,78
+Disneynature Bears,G,Kids & Family,"Alastair Fothergill, Keith Scholey, Adam Chapman",91,78
+All the King's Men,PG,"Classics, Drama",Robert Rossen,97,78
+Snow White and the Seven Dwarfs,G,"Animation, Classics, Kids & Family, Science Fiction & Fantasy","David Hand, William Cottrell, David D. Hand, Wilfred Jackson, Larry Morey, Perce Pearce, Ben Sharpsteen, Dick Richard, Webb Smith, Dorothy Ann Blank, Merrill de Maris, Walt Disney, Richard Creedon",98,78
+"Davy Crockett, King of the Wild Frontier",PG,"Action & Adventure, Kids & Family, Television, Western",Norman Foster,100,78
+A Boy Called Po,PG,Drama,John Asher,31,79
+Battle of Britain,G,"Action & Adventure, Classics, Drama",Guy Hamilton,67,79
+Nicholas and Alexandra,PG,"Art House & International, Classics, Drama",Franklin J. Schaffner,71,79
+Eight Below,PG,"Action & Adventure, Drama","Bruce Hendricks, Frank Marshall",72,79
+The Meerkats,G,Documentary,James Honeyborne,73,79
+a/k/a Tommy Chong,G,"Documentary, Special Interest",Josh Gilbert,73,79
+Cars,G,"Action & Adventure, Animation, Comedy, Kids & Family","John Lasseter, Joe Ranft",75,79
+The Chosen,PG,Drama,Jeremy Kagan,75,79
+The Time Machine,G,"Action & Adventure, Classics, Science Fiction & Fantasy",George Pal,77,79
+Pollyanna,G,"Drama, Kids & Family",David Swift,85,79
+Prodigal Sons,PG,"Documentary, Special Interest",Kimberly Reed,86,79
+Eight Men Out,PG,Drama,John Sayles,86,79
+Crossing Delancey,PG,"Comedy, Drama, Romance",Joan Micklin Silver,88,79
+Deep Sea 3D,G,"Animation, Documentary, Kids & Family, Special Interest",Howard Hall,91,79
+Jason and the Argonauts,G,"Action & Adventure, Classics, Kids & Family, Science Fiction & Fantasy",Don Chaffey,93,79
+Casting By,PG,"Documentary, Special Interest, Television",Tom Donahue,94,79
+An American in Paris,G,"Classics, Musical & Performing Arts, Romance",Vincente Minnelli,95,79
+Double Dare,PG,"Documentary, Musical & Performing Arts, Television",Amanda Micheli,97,79
+Vitus,PG,"Art House & International, Drama",Fredi M. Murer,66,80
+Deep Blue,G,"Documentary, Special Interest","Andy Byatt, Alastair Fothergill",67,80
+Beauty and the Beast,PG,"Drama, Musical & Performing Arts, Science Fiction & Fantasy, Romance",Bill Condon,71,80
+Cats Don't Dance,G,"Animation, Kids & Family",Mark Dindal,74,80
+Top Secret!,PG,Comedy,"David Zucker, Jim Abrahams, Jerry Zucker, Jody J. Abrahams",77,80
+Peter Pan,G,"Animation, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy","Wilfred Jackson, Clyde Geronimi, Hamilton Luske",80,80
+Dolphin Tale,PG,"Drama, Kids & Family",Charles Martin Smith,81,80
+Barefoot in the Park,G,"Classics, Comedy, Drama",Gene Saks,83,80
+Chariots of Fire,PG,"Art House & International, Drama, Sports & Fitness",Hugh Hudson,84,80
+Sleeping Beauty,G,"Animation, Classics, Kids & Family, Science Fiction & Fantasy","Les Clark, Clyde Geronimi, Wolfgang Reitherman, Eric Larson",88,80
+The Secret Garden,G,"Drama, Kids & Family",Agnieszka Holland,88,80
+Cactus Flower,PG,"Classics, Comedy",Gene Saks,88,80
+Gloria,PG,"Action & Adventure, Comedy, Drama, Mystery & Suspense",John Cassavetes,92,80
+L'uccello dalle piume di cristallo (The Bird With the Crystal Plumage),PG,"Art House & International, Drama, Mystery & Suspense",Dario Argento,93,80
+Duma,PG,"Action & Adventure, Drama, Kids & Family",Carroll Ballard,93,80
+Enchanted,PG,"Comedy, Kids & Family, Romance",Kevin Lima,93,80
+Conte d'hiver (A Tale of Winter),G,"Drama, Romance",Eric Rohmer,95,80
+The Stranger,PG,"Classics, Drama, Mystery & Suspense",Orson Welles,96,80
+Cinderella,G,"Animation, Classics, Kids & Family, Science Fiction & Fantasy","Clyde Geronimi, Wilfred Jackson, Hamilton Luske",97,80
+The Bad News Bears,PG,"Classics, Comedy",Michael Ritchie,97,80
+Hairspray,PG,"Comedy, Drama, Musical & Performing Arts",John Waters,98,80
+Robin Hood,G,"Action & Adventure, Animation, Kids & Family, Musical & Performing Arts, Romance",Wolfgang Reitherman,54,81
+Glory Road,PG,"Drama, Sports & Fitness","James Garner, James Gartner",56,81
+Breakthrough,PG,Drama,Roxann Dawson,61,81
+Death in Venice,PG,Drama,Luchino Visconti,67,81
+Butterflies Are Free,PG,"Classics, Comedy, Drama, Romance",Milton Katselas,67,81
+Cool Runnings,PG,Comedy,Jon Turteltaub,77,81
+Big Boys Gone Bananas!*,PG,"Documentary, Special Interest",Fredrik Gertten,77,81
+The Dark Crystal,PG,"Action & Adventure, Animation, Kids & Family, Science Fiction & Fantasy","Jim Henson, Frank Oz",79,81
+Bugsy Malone,G,"Comedy, Drama, Kids & Family, Musical & Performing Arts",Alan Parker,83,81
+The China Syndrome,PG,"Drama, Mystery & Suspense",James Bridges,84,81
+Akeelah and the Bee,PG,"Drama, Kids & Family",Doug Atchison,85,81
+Dark Victory,PG,"Classics, Drama",Edmund Goulding,86,81
+84 Charing Cross Road,PG,"Drama, Romance",David Hugh Jones,87,81
+Antarctica: A Year on Ice,PG,"Action & Adventure, Documentary, Special Interest",Anthony Powell,87,81
+The Little Princess,G,"Classics, Comedy, Drama, Kids & Family, Musical & Performing Arts","William A. Seiter, Walter Lang",88,81
+Boys Town,G,"Classics, Drama",Norman Taurog,90,81
+Hard Times,PG,"Action & Adventure, Classics, Drama",Walter Hill,92,81
+The Big Combo,PG,"Classics, Drama, Mystery & Suspense",Joseph H. Lewis,92,81
+Caramel,PG,"Comedy, Drama, Romance",,92,81
+Invasion of the Body Snatchers,PG,"Horror, Mystery & Suspense, Science Fiction & Fantasy",Philip Kaufman,93,81
+Brooklyn Castle,PG,"Documentary, Special Interest",Katie Dellamaggiore,96,81
+Lust for Life,PG,"Classics, Drama",Vincente Minnelli,100,81
+August Rush,PG,"Drama, Romance",Kirsten Sheridan,36,82
+The Champ,PG,"Drama, Sports & Fitness",Franco Zeffirelli,38,82
+Fireproof,PG,Drama,Alex Kendrick,40,82
+Made in Heaven,PG,"Comedy, Drama, Science Fiction & Fantasy, Romance",Alan Rudolph,45,82
+Amen,PG,"Art House & International, Drama, Faith & Spirituality",Costa-Gavras,67,82
+The Adventures of Mark Twain,G,"Action & Adventure, Animation, Kids & Family",Will Vinton,80,82
+Despicable Me,PG,"Animation, Comedy, Kids & Family","Pierre Coffin, Chris Renaud",81,82
+Cold Comfort Farm,PG,"Art House & International, Comedy",John Schlesinger,83,82
+The Gathering Storm,PG,"Drama, Television",Richard Loncraine,83,82
+Beetlejuice,PG,"Comedy, Horror, Science Fiction & Fantasy",Tim Burton,84,82
+Belle,PG,Drama,Amma Asante,84,82
+Brian's Song,G,"Classics, Drama, Television",Buzz Kulik,85,82
+Disneynature Earth,G,Documentary,"Mark Linfield, Alastair Fothergill",86,82
+The Haunting,G,"Classics, Horror",Robert Wise,87,82
+The Jungle Book,PG,"Action & Adventure, Animation, Kids & Family, Musical & Performing Arts, Romance",Wolfgang Reitherman,87,82
+Alice Doesn't Live Here Anymore,PG,"Classics, Drama",Martin Scorsese,87,82
+Charley Varrick,PG,"Action & Adventure, Drama, Mystery & Suspense",Don Siegel,88,82
+9500 Liberty,PG,"Documentary, Drama, Special Interest","Annabel Park, Eric Byler",92,82
+The Adventures of Baron Munchausen,PG,"Action & Adventure, Science Fiction & Fantasy",Terry Gilliam,92,82
+A Brief History of Time,G,"Documentary, Special Interest",Errol Morris,94,82
+Dr. No,PG,"Action & Adventure, Classics, Mystery & Suspense",Terence Young,95,82
+Big,PG,"Comedy, Kids & Family, Science Fiction & Fantasy",Penny Marshall,97,82
+A Star Is Born,PG,"Classics, Drama, Musical & Performing Arts",George Cukor,98,82
+Shadows,PG,"Classics, Drama, Romance",John Cassavetes,100,82
+Anne of the Thousand Days,PG,"Classics, Drama",Charles Jarrott,38,83
+Christopher Robin,PG,"Action & Adventure, Comedy, Kids & Family",Marc Forster,73,83
+The Great Race,G,"Action & Adventure, Classics, Comedy, Kids & Family, Romance",Blake Edwards,74,83
+Sorcerer,PG,"Action & Adventure, Mystery & Suspense",William Friedkin,79,83
+Batkid Begins,PG,Documentary,Dana Nachman,82,83
+Little Women,G,"Classics, Drama, Kids & Family, Romance",Mervyn LeRoy,83,83
+Enchanted April,PG,"Comedy, Drama, Romance",Mike Newell,84,83
+The Emperor's New Groove,G,"Animation, Kids & Family, Science Fiction & Fantasy",Mark Dindal,85,83
+Persuasion,PG,"Drama, Romance",Roger Michell,86,83
+The Importance of Being Earnest,PG,"Classics, Comedy",Anthony Asquith,88,83
+The Black Stallion,G,"Action & Adventure, Kids & Family",Carroll Ballard,89,83
+Gallipoli,PG,"Art House & International, Drama",Peter Weir,91,83
+Etz Limon (Lemon Tree),PG,"Art House & International, Drama, Romance",Eran Riklis,91,83
+The Duellists,PG,"Action & Adventure, Drama",Ridley Scott,92,83
+"Good Night, And Good Luck",PG,Drama,George Clooney,93,83
+Encounters at the End of the World,G,Documentary,Werner Herzog,94,83
+East Side Sushi,PG,"Comedy, Romance",Anthony Lucero,94,83
+The King and I,G,"Classics, Musical & Performing Arts, Romance",Walter Lang,96,83
+Spellbound,G,"Documentary, Special Interest",Jeffrey Blitz,97,83
+Anne Frank Remembered,PG,"Art House & International, Documentary, Special Interest",Jon Blair,97,83
+Defending Your Life,PG,"Comedy, Science Fiction & Fantasy",Albert Brooks,97,83
+Blindsight,PG,"Action & Adventure, Documentary, Special Interest",Lucy Walker,98,83
+Amazing Grace,G,"Documentary, Musical & Performing Arts",,99,83
+Desk Set,G,"Classics, Comedy, Romance",Walter Lang,100,83
+The Letter,PG,"Classics, Drama",William Wyler,100,83
+Beat Street,PG,"Drama, Musical & Performing Arts","Stan Lathan, Wynn P. Thomas",50,84
+1776,G,"Classics, Drama, Musical & Performing Arts",Peter H. Hunt,69,84
+Scrooge,G,"Drama, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",Ronald Neame,75,84
+The Pirates of Penzance,G,"Action & Adventure, Classics, Comedy, Musical & Performing Arts",Wilford Leach,81,84
+The Goodbye Girl,PG,"Comedy, Romance",Herbert Ross,83,84
+Birdman of Alcatraz,G,"Classics, Drama, Mystery & Suspense",John Frankenheimer,86,84
+The Children's Hour,G,"Classics, Drama",William Wyler,86,84
+The Long Walk Home,PG,Drama,Richard Pearce,87,84
+Duel,PG,"Mystery & Suspense, Television",Steven Spielberg,88,84
+Dirty Rotten Scoundrels,PG,Comedy,Frank Oz,89,84
+Alamar (To the Sea),G,"Art House & International, Drama",Pedro González-Rubio,91,84
+Little Women,PG,"Drama, Romance",Gillian Armstrong,91,84
+From Here to Eternity,G,"Classics, Drama, Romance",Fred Zinnemann,92,84
+The Wrecking Crew,PG,"Documentary, Musical & Performing Arts",Denny Tedesco,94,84
+American Graffiti,PG,"Comedy, Drama",George Lucas,96,84
+Yellow Submarine,G,"Action & Adventure, Animation, Comedy, Cult Movies, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",George Dunning,97,84
+Born To Be Wild,G,Documentary,David Lickley,98,84
+Earth: One Amazing Day,G,"Documentary, Kids & Family","Richard Dale, Peter Webber, Lixin Fan",100,84
+Broadway Danny Rose,PG,"Comedy, Romance",Woody Allen,100,84
+Facing the Giants,PG,"Drama, Faith & Spirituality","Alex Kendrick, Stephen Kendrick",13,85
+Back to the Future Part II,PG,"Comedy, Science Fiction & Fantasy",Robert Zemeckis,65,85
+Amazing Grace,PG,"Drama, Mystery & Suspense",Michael Apted,68,85
+A Little Romance,PG,"Art House & International, Comedy, Drama, Romance",George Roy Hill,69,85
+Despicable Me 2,PG,"Animation, Comedy, Kids & Family","Pierre Coffin, Chris Renaud",75,85
+The Business of Being Born,PG,"Documentary, Special Interest",Abby Epstein,81,85
+Emmanuel's Gift,G,"Documentary, Special Interest","Lisa Lax, Nancy Stern",82,85
+Abbott and Costello Meet Frankenstein,PG,"Classics, Comedy, Horror, Science Fiction & Fantasy",Charles Barton,88,85
+The Producers,PG,"Classics, Comedy",Mel Brooks,90,85
+The Magic Flute (Trollflöjten),G,"Art House & International, Comedy, Musical & Performing Arts, Science Fiction & Fantasy, Television, Romance",Ingmar Bergman,91,85
+Fantastic Mr. Fox,PG,"Action & Adventure, Animation, Comedy, Kids & Family",Wes Anderson,92,85
+The Music Man,G,"Musical & Performing Arts, Romance",Morton DaCosta,94,85
+Contempt,PG,"Art House & International, Comedy, Drama",Jean-Luc Godard,94,85
+Wuthering Heights,G,"Classics, Drama, Romance",William Wyler,95,85
+Close Encounters of the Third Kind,PG,"Action & Adventure, Mystery & Suspense, Science Fiction & Fantasy",Steven Spielberg,95,85
+Escape From Alcatraz,PG,"Action & Adventure, Classics, Drama, Mystery & Suspense",Don Siegel,96,85
+Bullitt,PG,"Action & Adventure, Classics, Drama, Mystery & Suspense",Peter Yates,97,85
+Invasion of the Body Snatchers,PG,"Classics, Mystery & Suspense, Science Fiction & Fantasy",Don Siegel,98,85
+Emmet Otter's Jug-Band Christmas,G,"Kids & Family, Musical & Performing Arts",Jim Henson,100,85
+Beau Geste,PG,"Action & Adventure, Classics, Drama",William Wellman,100,85
+Brain Donors,PG,Comedy,Dennis Dugan,45,86
+Clue,PG,"Comedy, Drama, Mystery & Suspense",Jonathan Lynn,59,86
+A Bridge Too Far,PG,"Action & Adventure, Drama","Sidney Hayers, Richard Attenborough",63,86
+Dreams,PG,"Art House & International, Drama, Science Fiction & Fantasy",Akira Kurosawa,63,86
+The Italian Job,G,"Action & Adventure, Classics, Comedy, Drama, Mystery & Suspense",Peter Collinson,83,86
+Help!,G,"Comedy, Musical & Performing Arts, Mystery & Suspense, Science Fiction & Fantasy",Richard Lester,88,86
+Bobby Fischer Against The World,PG,"Documentary, Drama, Special Interest",Liz Garbus,88,86
+Coal Miner's Daughter,PG,"Drama, Musical & Performing Arts",Michael Apted,89,86
+3 Women,PG,"Classics, Drama",Robert Altman,94,86
+Born Free,PG,"Action & Adventure, Drama, Kids & Family",James Hill,94,86
+The Bad and the Beautiful,G,"Classics, Drama, Romance",Vincente Minnelli,96,86
+King Kong,G,"Action & Adventure, Classics, Horror","Ernest B. Schoedsack, Merian C. Cooper",98,86
+The Prowler (Cost of Living ),PG,"Drama, Mystery & Suspense",Joseph Losey,100,86
+Scarface,PG,"Classics, Drama",Howard Hawks,100,86
+Charly (A Heartbeat Away),PG,"Comedy, Drama, Romance",Adam Thomas Anderegg,20,87
+An Affair to Remember,G,"Classics, Comedy, Drama, Romance",Leo McCarey,62,87
+The Mission,PG,"Art House & International, Drama",Roland Joffé,64,87
+Big Wednesday,PG,"Comedy, Drama",John Milius,64,87
+Evil (Ondskan),G,"Art House & International, Drama",Mikael Håfström,68,87
+A Man for All Seasons,G,"Classics, Drama",Fred Zinnemann,82,87
+The Defiant Ones,PG,"Classics, Drama",Stanley Kramer,82,87
+The Art Of The Steal,PG,"Documentary, Musical & Performing Arts",Don Argott,85,87
+Planet of the Apes,G,"Classics, Science Fiction & Fantasy",Franklin J. Schaffner,88,87
+Black Orpheus (Orfeu Negro),PG,"Art House & International, Classics, Comedy, Drama, Musical & Performing Arts, Science Fiction & Fantasy, Romance",Marcel Camus,89,87
+The Cave of the Yellow Dog (Die Hohle des gelben Hundes),G,"Art House & International, Drama, Special Interest",Byambasuren Davaa,90,87
+The Boys: The Sherman Brothers' Story,PG,"Documentary, Musical & Performing Arts, Television","Jeffrey C. Sherman, Gregory V. Sherman, Jeff Sherman",90,87
+Carol Channing: Larger Than Life,PG,"Documentary, Musical & Performing Arts, Television",Dori Berinstein,90,87
+Brute Force,G,"Classics, Drama",Jules Dassin,91,87
+Monty Python's And Now for Something Completely Different,PG,"Comedy, Television","Ian MacNaughton, Terry Gilliam",91,87
+The Caine Mutiny,PG,"Action & Adventure, Classics, Drama, Mystery & Suspense, Romance",Edward Dmytryk,92,87
+A Shot in the Dark,PG,"Classics, Comedy, Drama",Blake Edwards,93,87
+The Ten Commandments,G,"Classics, Drama, Faith & Spirituality",Cecil B. DeMille,94,87
+A Raisin in the Sun,PG,"Classics, Drama",Daniel Petrie Sr.,94,87
+The Day the Earth Stood Still,G,"Classics, Drama, Science Fiction & Fantasy",Robert Wise,95,87
+Strictly Ballroom,PG,"Comedy, Drama, Romance",Baz Luhrmann,95,87
+Apollo 13,PG,"Action & Adventure, Drama",Ron Howard,95,87
+Being Elmo: A Puppeteer's Journey,PG,"Documentary, Television","Constance Marks, Philip Shane",95,87
+Cabaret,PG,"Classics, Drama, Musical & Performing Arts",Bob Fosse,95,87
+Deep Water,PG,"Documentary, Special Interest","Louise Osmond, Jerry Rothwell",96,87
+The Asphalt Jungle,G,"Classics, Drama",John Huston,97,87
+The Dresser,PG,"Art House & International, Drama",Peter Yates,100,87
+El Dorado,PG,"Action & Adventure, Classics, Western",Howard Hawks,100,87
+Calamity Jane,G,"Classics, Comedy, Musical & Performing Arts, Western, Romance",David Butler,75,88
+Chipmunk Adventure,G,"Action & Adventure, Animation, Comedy, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy",Janice Karman,75,88
+White Christmas,G,"Classics, Kids & Family, Musical & Performing Arts, Special Interest",Michael Curtiz,76,88
+The Party,PG,"Classics, Comedy",Blake Edwards,82,88
+Cry Freedom,PG,"Art House & International, Drama",Richard Attenborough,83,88
+Batman: Mask of the Phantasm,PG,"Action & Adventure, Animation, Kids & Family, Mystery & Suspense","Eric Radomski, Bruce Timm",84,88
+Bagdad Cafe,PG,"Art House & International, Comedy, Drama",Percy Adlon,85,88
+Calle 54,G,"Art House & International, Documentary, Drama, Musical & Performing Arts",Fernando Trueba,87,88
+A Christmas Story,PG,"Comedy, Drama, Kids & Family",Bob Clark,89,88
+Devdas,PG,"Art House & International, Drama, Musical & Performing Arts, Romance",Sanjay Leela Bhansali,89,88
+The Day of the Jackal,PG,"Classics, Drama, Mystery & Suspense",Fred Zinnemann,91,88
+Breaking Away,PG,"Comedy, Drama",Peter Yates,94,88
+A Little Princess,G,"Drama, Kids & Family",Alfonso Cuarón,97,88
+Ernest & Célestine,PG,"Animation, Art House & International, Science Fiction & Fantasy","Vincent Patar, Benjamin Renner, Stéphane Aubier",97,88
+The Lady Vanishes,PG,"Classics, Mystery & Suspense",Alfred Hitchcock,98,88
+Gettysburg,PG,"Classics, Drama",Ronald F. Maxwell,80,89
+Cooley High,PG,"Classics, Comedy, Drama",Michael Schultz,83,89
+Ben-Hur,G,"Action & Adventure, Classics, Drama, Romance",William Wyler,86,89
+Pride and Prejudice,PG,"Comedy, Drama, Romance",Joe Wright,86,89
+F for Fake,PG,"Documentary, Musical & Performing Arts, Special Interest, Television",Orson Welles,88,89
+Baran,PG,"Art House & International, Drama",Majid Majidi,89,89
+Buck,PG,"Documentary, Special Interest",Cindy Meehl,89,89
+Shall We Dance? (Shall We Dansu?),PG,"Art House & International, Comedy, Drama, Romance",Masayuki Suo,91,89
+Sabrina,G,"Classics, Comedy, Drama, Romance",Billy Wilder,92,89
+Days of Heaven,PG,Drama,Terrence Malick,92,89
+2001: A Space Odyssey,G,"Classics, Science Fiction & Fantasy",Stanley Kubrick,93,89
+Captains Courageous,PG,"Action & Adventure, Classics",Victor Fleming,94,89
+High Noon,PG,"Mystery & Suspense, Western",Fred Zinnemann,96,89
+Airplane!,PG,Comedy,"David Zucker, Jerry Zucker, Jim Abrahams",97,89
+A Hard Day's Night,G,"Classics, Comedy, Musical & Performing Arts",Richard Lester,98,89
+The Discreet Charm Of The Bourgeoisie (Le Charme Discret de la Bourgeoisie),PG,"Art House & International, Comedy, Drama, Science Fiction & Fantasy, Special Interest",Luis Buñuel,98,89
+"Faces Places (Visages, villages)",PG,"Art House & International, Documentary","JR, Agnès Varda",99,89
+The Adventures of Robin Hood,PG,"Action & Adventure, Classics, Romance","Michael Curtiz, William Keighley",100,89
+The Odd Couple,PG,"Classics, Comedy, Drama",Gene Saks,100,89
+Black,G,Drama,Sanjay Leela Bhansali,67,90
+A Man Named Pearl,G,"Documentary, Special Interest","Brent Pierson, Scott Galloway",74,90
+Empire of the Sun,PG,Drama,Steven Spielberg,75,90
+East of Eden,PG,"Classics, Drama",Elia Kazan,86,90
+The King of Comedy,PG,"Comedy, Drama, Mystery & Suspense",Martin Scorsese,88,90
+The Road Home (Wo de fu qin mu qin),G,"Art House & International, Drama, Romance",Zhang Yimou,89,90
+Buena Vista Social Club,G,"Documentary, Musical & Performing Arts",Wim Wenders,91,90
+The Lion in Winter,PG,"Classics, Drama",Anthony Harvey,92,90
+My Man Godfrey,G,"Classics, Comedy, Drama, Romance",Gregory La Cava,97,90
+Bob le Flambeur,PG,"Action & Adventure, Art House & International, Classics, Drama, Mystery & Suspense",Jean-Pierre Melville,97,90
+A Streetcar Named Desire,PG,"Classics, Drama",Elia Kazan,98,90
+Badlands,PG,"Action & Adventure, Classics, Cult Movies, Drama, Mystery & Suspense",Terrence Malick,98,90
+The Conversation,PG,"Drama, Mystery & Suspense",Francis Ford Coppola,98,90
+Anatomy of a Murder,G,"Classics, Drama, Mystery & Suspense",Otto Preminger,100,90
+The Big Country,G,"Classics, Drama, Western",William Wyler,100,90
+The Big Heat,PG,"Classics, Drama, Mystery & Suspense",Fritz Lang,100,90
+Shadow of a Doubt,PG,"Classics, Drama, Mystery & Suspense",Alfred Hitchcock,100,90
+Citizen Kane,PG,"Classics, Drama, Mystery & Suspense",Orson Welles,100,90
+Sparkle,PG,"Drama, Musical & Performing Arts",Sam O'Steen,10,91
+Dust to Glory,PG,"Action & Adventure, Documentary, Sports & Fitness",Dana Brown,60,91
+Monanieba (Repentance),PG,"Art House & International, Drama",Tenghiz Abuladze,67,91
+Big Hero 6,PG,"Animation, Kids & Family","Chris Williams (IX), Don Hall",89,91
+Inherit the Wind,PG,"Classics, Drama, Faith & Spirituality",Stanley Kramer,92,91
+Babette's Feast (Babettes Gæstebud),G,"Art House & International, Drama, Romance",Gabriel Axel,97,91
+The Big Sleep,PG,"Classics, Drama, Mystery & Suspense",Howard Hawks,97,91
+Apollo 11,G,Documentary,Todd Douglas Miller,99,91
+The Endless Summer,G,"Documentary, Sports & Fitness",Bruce Brown,100,91
+The Maltese Falcon,PG,"Drama, Mystery & Suspense",John Huston,100,91
+'Breaker' Morant,PG,"Art House & International, Drama",Bruce Beresford,100,91
+Day for Night,PG,"Art House & International, Comedy, Drama, Romance",François Truffaut,100,91
+A Dog's Journey,PG,"Drama, Kids & Family",Gail Mancuso,50,92
+Dragon Ball Super: Broly,PG,Animation,Tatsuya Nagamine,83,92
+Dead Poets Society,PG,Drama,Peter Weir,84,92
+Dial M for Murder,PG,"Classics, Mystery & Suspense",Alfred Hitchcock,89,92
+Butch Cassidy and the Sundance Kid,PG,"Action & Adventure, Classics, Western",George Roy Hill,90,92
+Barry Lyndon,PG,"Classics, Drama",Stanley Kubrick,91,92
+All the President's Men,PG,"Classics, Drama, Mystery & Suspense",Alan J. Pakula,93,92
+Beauty and the Beast,G,"Animation, Drama, Kids & Family, Musical & Performing Arts, Science Fiction & Fantasy, Romance",Gary Trousdale,94,92
+Being There,PG,"Comedy, Drama",Hal Ashby,94,92
+Charade,G,"Classics, Comedy, Drama, Mystery & Suspense",Stanley Donen,95,92
+Mary and Max,G,"Animation, Comedy, Drama",Adam Elliot,95,92
+Aladdin,G,"Action & Adventure, Animation, Comedy, Kids & Family, Musical & Performing Arts","John Musker, Ron Clements",95,92
+Cat on a Hot Tin Roof,PG,"Classics, Drama",Richard Brooks,97,92
+Annie Hall,PG,"Comedy, Romance",Woody Allen,97,92
+The Elephant Man,PG,Drama,David Lynch,91,93
+The Bridge on the River Kwai,PG,"Action & Adventure, Classics, Drama",David Lean,95,93
+Aladdin,PG,"Action & Adventure, Kids & Family, Science Fiction & Fantasy",Guy Ritchie,57,94
+Dersu Uzala,G,"Action & Adventure, Art House & International, Drama",Akira Kurosawa,73,94
+The Circus,G,"Action & Adventure, Classics, Comedy, Drama, Kids & Family, Special Interest",Charles Chaplin,96,94
+Back to the Future,PG,"Action & Adventure, Comedy, Science Fiction & Fantasy",Robert Zemeckis,96,94
+Coco,PG,"Action & Adventure, Animation, Comedy, Kids & Family","Lee Unkrich, Adrian Molina",97,94
+Dr. Strangelove Or How I Learned to Stop Worrying and Love the Bomb,PG,"Classics, Comedy, Science Fiction & Fantasy",Stanley Kubrick,98,94
+All About Eve,PG,"Classics, Drama",Joseph L. Mankiewicz,100,94
+Chuck Berry: Hail! Hail! Rock 'n' Roll,PG,"Documentary, Musical & Performing Arts",Taylor Hackford,87,95
+The Sting,PG,"Classics, Comedy, Drama",George Roy Hill,93,95
+Casablanca,PG,"Classics, Drama, Romance",Michael Curtiz,98,95
+Rear Window,PG,"Classics, Drama, Mystery & Suspense",Alfred Hitchcock,100,95
+Cool Hand Luke,PG,"Classics, Drama",Stuart Rosenberg,100,95
+Cirque Du Soleil: Worlds Away,PG,"Art House & International, Documentary, Kids & Family, Science Fiction & Fantasy",Andrew Adamson,45,96
+Children of Heaven (Bacheha-Ye aseman),PG,"Action & Adventure, Art House & International, Comedy, Drama",Majid Majidi,83,96
+The Color of Paradise,PG,"Art House & International, Drama",Majid Majidi,87,96
+Children of Paradise (Les Enfants du Paradis),PG,"Art House & International, Classics, Drama, Romance",Marcel Carné,97,96
+City Lights,G,"Classics, Comedy, Drama, Romance",Charles Chaplin,98,96
+Star Wars: Episode V - The Empire Strikes Back,PG,"Action & Adventure, Drama, Science Fiction & Fantasy",Irvin Kershner,95,97
